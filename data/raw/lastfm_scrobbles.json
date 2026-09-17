@@ -1,5 +1,148 @@
 [
-  "",
+  {
+    "artist": {
+      "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+      "#text": "Addison Rae"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ad9e0bcc76824a8327dd4ed57d20dd5b.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ad9e0bcc76824a8327dd4ed57d20dd5b.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ad9e0bcc76824a8327dd4ed57d20dd5b.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ad9e0bcc76824a8327dd4ed57d20dd5b.jpg"
+      }
+    ],
+    "mbid": "e30259b4-eae1-4449-9079-c1b1c042c718",
+    "album": {
+      "mbid": "8db87670-bb50-40df-afba-0a7dd0e760f1",
+      "#text": "Addison"
+    },
+    "name": "Summer Forever",
+    "url": "https://www.last.fm/music/Addison+Rae/_/Summer+Forever",
+    "date": {
+      "uts": "1789635426",
+      "#text": "17 Sep 2026, 08:57"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+      "#text": "Addison Rae"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ad9e0bcc76824a8327dd4ed57d20dd5b.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ad9e0bcc76824a8327dd4ed57d20dd5b.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ad9e0bcc76824a8327dd4ed57d20dd5b.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ad9e0bcc76824a8327dd4ed57d20dd5b.jpg"
+      }
+    ],
+    "mbid": "e30259b4-eae1-4449-9079-c1b1c042c718",
+    "album": {
+      "mbid": "8db87670-bb50-40df-afba-0a7dd0e760f1",
+      "#text": "Addison"
+    },
+    "name": "Summer Forever",
+    "url": "https://www.last.fm/music/Addison+Rae/_/Summer+Forever",
+    "date": {
+      "uts": "1789609980",
+      "#text": "17 Sep 2026, 01:53"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "#text": "Taylor Swift"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a758908e6e86dcecbb199c4b19acb799.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a758908e6e86dcecbb199c4b19acb799.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a758908e6e86dcecbb199c4b19acb799.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a758908e6e86dcecbb199c4b19acb799.jpg"
+      }
+    ],
+    "mbid": "3177689b-8d6f-45a8-bd05-54108ad61e43",
+    "album": {
+      "mbid": "0854c381-be63-44c7-8695-0878330c4760",
+      "#text": "Red (Taylor's Version)"
+    },
+    "name": "All Too Well (10 Minute Version) (Taylor's Version) (From the Vault)",
+    "url": "https://www.last.fm/music/Taylor+Swift/_/All+Too+Well+(10+Minute+Version)+(Taylor%27s+Version)+(From+the+Vault)",
+    "date": {
+      "uts": "1789607385",
+      "#text": "17 Sep 2026, 01:09"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "#text": "Taylor Swift"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a758908e6e86dcecbb199c4b19acb799.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a758908e6e86dcecbb199c4b19acb799.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a758908e6e86dcecbb199c4b19acb799.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a758908e6e86dcecbb199c4b19acb799.jpg"
+      }
+    ],
+    "mbid": "3177689b-8d6f-45a8-bd05-54108ad61e43",
+    "album": {
+      "mbid": "0854c381-be63-44c7-8695-0878330c4760",
+      "#text": "Red (Taylor's Version)"
+    },
+    "name": "All Too Well (10 Minute Version) (Taylor's Version) (From the Vault)",
+    "url": "https://www.last.fm/music/Taylor+Swift/_/All+Too+Well+(10+Minute+Version)+(Taylor%27s+Version)+(From+the+Vault)",
+    "date": {
+      "uts": "1789601347",
+      "#text": "16 Sep 2026, 23:29"
+    }
+  },
   {
     "artist": {
       "mbid": "79239441-bfd5-4981-a70c-55c3f15c1287",
@@ -117,19 +260,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/d2d7b6a9f9b12837e11a18cfd6f467d6.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/56554e2a195e54df667774cb7584b6fc.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/d2d7b6a9f9b12837e11a18cfd6f467d6.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/56554e2a195e54df667774cb7584b6fc.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/d2d7b6a9f9b12837e11a18cfd6f467d6.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/56554e2a195e54df667774cb7584b6fc.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d2d7b6a9f9b12837e11a18cfd6f467d6.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/56554e2a195e54df667774cb7584b6fc.jpg"
       }
     ],
     "mbid": "1d5f8493-e351-404c-aa6f-da5f9ec72715",
@@ -369,19 +512,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a2527ea9d132e6feeac1e0df09a25e2d.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ee1be80c6e5ae18cfa100486b9fc2e63.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a2527ea9d132e6feeac1e0df09a25e2d.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ee1be80c6e5ae18cfa100486b9fc2e63.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a2527ea9d132e6feeac1e0df09a25e2d.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ee1be80c6e5ae18cfa100486b9fc2e63.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a2527ea9d132e6feeac1e0df09a25e2d.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ee1be80c6e5ae18cfa100486b9fc2e63.jpg"
       }
     ],
     "mbid": "6aa82417-e992-4af5-a3ca-70a704d02a3d",
@@ -1212,7 +1355,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/17d36154a293f86c9643fd0a396f6257.jpg"
       }
     ],
-    "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
+    "mbid": "bc2e7429-8e5d-4f7b-a0ae-c0c0404e7b26",
     "album": {
       "mbid": "b1032535-694d-45d5-a2ce-cbca1a755400",
       "#text": "Ain't In LA"
@@ -2544,7 +2687,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/17d36154a293f86c9643fd0a396f6257.jpg"
       }
     ],
-    "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
+    "mbid": "bc2e7429-8e5d-4f7b-a0ae-c0c0404e7b26",
     "album": {
       "mbid": "b1032535-694d-45d5-a2ce-cbca1a755400",
       "#text": "Ain't In LA"
@@ -4272,7 +4415,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0f3f88c1f6d0451ec6d0fc74200ca678.jpg"
       }
     ],
-    "mbid": "20d1271f-9890-4de5-8213-dcddaf1aadf2",
+    "mbid": "20305e46-b1f9-4ce5-ac1f-209358720978",
     "album": {
       "mbid": "2949a37d-7824-46d6-ae09-c156ee3bd063",
       "#text": "The Provocateur"
@@ -5892,7 +6035,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/17d36154a293f86c9643fd0a396f6257.jpg"
       }
     ],
-    "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
+    "mbid": "bc2e7429-8e5d-4f7b-a0ae-c0c0404e7b26",
     "album": {
       "mbid": "b1032535-694d-45d5-a2ce-cbca1a755400",
       "#text": "Ain't In LA"
@@ -9422,7 +9565,7 @@
     ],
     "mbid": "04b2b3fe-fbfb-4c90-aa83-d2c83557fcee",
     "album": {
-      "mbid": "f22190a3-49b0-47e0-a0c3-6bcd560d5f58",
+      "mbid": "",
       "#text": "FALLEN ANGEL"
     },
     "name": "Fallen Angel",

@@ -4,7 +4,7 @@ import os, requests, time, json
 
 load_dotenv() # carrega variáveis de ambiente (.env) direto no programa python
 pag_atual = 0
-lista_tracks = [""]
+lista_tracks = [] # se declarar com "" - salva uma primeira string vazia
 pag_total = 0
 api_key = os.getenv('LASTFM_API_KEY')
 # processo pra pegar minha key do last.fm
