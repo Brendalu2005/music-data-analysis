@@ -36,6 +36,7 @@ url = "http://ws.audioscrobbler.com/2.0/"
 
 while(pag_atual<=pag_total):
     pag_atual+=1
+    
     parametros = {
     "method": "user.getrecenttracks",
     "user": "brendaluuc",
