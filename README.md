@@ -1,5 +1,13 @@
 # music-data-analysis
-projeto de análise dos meus dados musicais via API do last.fm + musicBrainz
+projeto de análise dos meus dados musicais via API do last.fm + musicBrainz seguindo arquitetura ELT
+
+## EXTRACT
+extraindo dados brutos das APIs do Last.fm e MusicBrainz, via scripts: 
+```extract_lastfm.py``` e ```extract_musicbrainz.py``` 
+
+## LOAD
+carregando os dados brutos nos arquivos:
+```lastfm_scrobbles.json``` e ```musicbrainz_data.json``` 
 
 ## fluxograma do projeto
 ```mermaid
