@@ -8,6 +8,7 @@ print("pegando dados do last.fm...\n")
 
 with open("data/raw/lastfm_scrobbles.json", "r", encoding="utf-8") as arquivo:
     lista_tracks = json.load(arquivo)
+    
 
 print("selecionando artistas...\n")
 for faixa in lista_tracks:
