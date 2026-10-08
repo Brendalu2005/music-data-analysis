@@ -24067,5 +24067,1853 @@
         ]
       }
     ]
+  },
+  "Anavitória": {
+    "created": "2026-10-08T12:05:47.356Z",
+    "count": 3,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "7bb68d31-2d82-4a1c-82e7-4ae3d122e5d9",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "ANAVITÓRIA",
+        "sort-name": "ANAVITÓRIA",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "e6deeab9-5999-4028-b353-968a39b8b707",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "Tocantins",
+          "sort-name": "Tocantins",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "begin": "2013",
+          "ended": null
+        }
+      }
+    ]
+  },
+  "Mariana Aydar": {
+    "created": "2026-10-08T12:05:49.463Z",
+    "count": 317,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "b76ce972-d1f2-4db5-adef-5447323be2f1",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Mariana Aydar",
+        "sort-name": "Aydar, Mariana",
+        "gender": "female",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "33e0f86c-d709-448d-a484-d55778913af1",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "São Paulo",
+          "sort-name": "São Paulo",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "isnis": [
+          "000000007778780X"
+        ],
+        "life-span": {
+          "begin": "1980-05-08",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Marianna Aydar",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "Marianna Aydar",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ]
+      }
+    ]
+  },
+  "Alcione": {
+    "created": "2026-10-08T12:05:51.550Z",
+    "count": 7,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "51bde19b-feed-4e6c-99e7-84327defabe2",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Alcione",
+        "sort-name": "Alcione",
+        "gender": "female",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "19e8cc31-3bc9-490f-a7ac-b4467701fdc9",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "São Luís",
+          "sort-name": "São Luís",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Brazilian singer",
+        "isnis": [
+          "0000000078396683",
+          "0000000383495231"
+        ],
+        "life-span": {
+          "begin": "1947-11-21",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Marrom",
+            "name": "Marrom",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Nazareth, Alcione Dias",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Alcione Dias Nazareth",
+            "locale": "pt",
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "mpb"
+          },
+          {
+            "count": 2,
+            "name": "brazilian"
+          },
+          {
+            "count": 1,
+            "name": "samba"
+          },
+          {
+            "count": 1,
+            "name": "pagode"
+          }
+        ]
+      }
+    ]
+  },
+  "Yago Oproprio": {
+    "created": "2026-10-08T12:05:53.674Z",
+    "count": 78,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "650726c6-cda9-4fc6-aac5-291e8628dfdf",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "name": "Yago Oproprio",
+        "sort-name": "Oproprio, Yago",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "ended": null
+        }
+      }
+    ]
+  },
+  "Pablo": {
+    "created": "2026-10-08T12:05:55.752Z",
+    "count": 1737,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "e2f9c452-7eb0-4782-bc3e-36f2c456ffe0",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Augustus Pablo",
+        "sort-name": "Pablo, Augustus",
+        "gender": "male",
+        "country": "JM",
+        "area": {
+          "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Jamaica",
+          "sort-name": "Jamaica",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "e4266d76-372a-4602-93b7-380e4013c90f",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "Saint Andrew",
+          "sort-name": "Saint Andrew",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "end-area": {
+          "id": "23e0d135-9fe7-48cb-b2c4-93addd3d1e37",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "Kingston",
+          "sort-name": "Kingston",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00046708667"
+        ],
+        "isnis": [
+          "0000000073638612"
+        ],
+        "life-span": {
+          "begin": "1954-06-21",
+          "end": "1999-05-18",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "Swaby, Horace",
+            "name": "Horace Swaby",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Swaby, Horace Michael",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Horace Michael Swaby",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Augustos Pablo",
+            "name": "Augustos Pablo",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 3,
+            "name": "reggae"
+          },
+          {
+            "count": 4,
+            "name": "dub"
+          },
+          {
+            "count": 1,
+            "name": "roots reggae"
+          },
+          {
+            "count": 1,
+            "name": "roots"
+          },
+          {
+            "count": 1,
+            "name": "deejay"
+          }
+        ]
+      }
+    ]
+  },
+  "Lou Garcia": {
+    "created": "2026-10-08T12:05:57.877Z",
+    "count": 15290,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "9e929256-e00d-4fc8-8e78-0c8217c15306",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Lou Garcia",
+        "sort-name": "Garcia, Lou",
+        "gender": "female",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Brazilian singer",
+        "life-span": {
+          "ended": null
+        }
+      }
+    ]
+  },
+  "DG e Batidão Stronda": {
+    "created": "2026-10-08T12:05:59.978Z",
+    "count": 7593,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "53f77e21-65f3-4bf6-9171-e9dcacb11fa1",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "DG e Batidão Stronda",
+        "sort-name": "DG e Batidão Stronda",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "ended": null
+        }
+      }
+    ]
+  },
+  "Péricles": {
+    "created": "2026-10-08T12:06:02.061Z",
+    "count": 14,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "9af8d356-5bd6-4789-9934-fe5916067ab8",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Péricles",
+        "sort-name": "Péricles",
+        "gender": "male",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "204dd468-f79e-475d-94a7-64e417246439",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "São Paulo",
+          "sort-name": "São Paulo",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "ex-Exaltasamba",
+        "isnis": [
+          "0000000466126108"
+        ],
+        "life-span": {
+          "begin": "1969-06-22",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Faria, Péricles Aparecido Fonseca de",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Péricles Aparecido Fonseca de Faria",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ]
+      }
+    ]
+  },
+  "Rubel": {
+    "created": "2026-10-08T12:06:04.247Z",
+    "count": 48,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "c8e13148-c14a-4d07-95ef-f53d31e49e10",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Rubel",
+        "sort-name": "Rubel",
+        "gender": "male",
+        "area": {
+          "id": "7a317b09-3948-46f2-99da-a14355d6fff7",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "7a317b09-3948-46f2-99da-a14355d6fff7",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Brazilian singer",
+        "life-span": {
+          "begin": "1991-04-10",
+          "ended": null
+        },
+        "tags": [
+          {
+            "count": 1,
+            "name": "mpb"
+          },
+          {
+            "count": 1,
+            "name": "nova mpb"
+          }
+        ]
+      }
+    ]
+  },
+  "Rita Lee": {
+    "created": "2026-10-08T12:06:06.412Z",
+    "count": 18482,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "3f962bf0-42a0-45a0-830f-07b66301d35f",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Rita Lee",
+        "sort-name": "Lee, Rita",
+        "gender": "female",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "33e0f86c-d709-448d-a484-d55778913af1",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "São Paulo",
+          "sort-name": "São Paulo",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "end-area": {
+          "id": "33e0f86c-d709-448d-a484-d55778913af1",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "São Paulo",
+          "sort-name": "São Paulo",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00060250127",
+          "00210826404",
+          "00452421582"
+        ],
+        "isnis": [
+          "0000000114728500"
+        ],
+        "life-span": {
+          "begin": "1947-12-31",
+          "end": "2023-05-08",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "Carvalho, Rita Lee Jones",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Rita Lee Jones Carvalho",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": "1996",
+            "end-date": null
+          },
+          {
+            "sort-name": "Jones, Rita Lee",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Rita Lee Jones",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": "1996"
+          },
+          {
+            "sort-name": "Rita Lee & Tutti Frutti",
+            "name": "Rita Lee & Tutti Frutti",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "rock"
+          },
+          {
+            "count": 1,
+            "name": "pop rock"
+          },
+          {
+            "count": 2,
+            "name": "tropicália"
+          },
+          {
+            "count": 1,
+            "name": "aln-sh"
+          }
+        ]
+      }
+    ]
+  },
+  "Chico Science": {
+    "created": "2026-10-08T12:06:08.497Z",
+    "count": 1207,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "d4b0112d-f8aa-4880-a6c3-ab0ea94943a9",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Chico Science",
+        "sort-name": "Chico Science",
+        "gender": "male",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "434f1fd7-eec7-49d4-829c-ede23ef78c7a",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Olinda",
+          "sort-name": "Olinda",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "end-area": {
+          "id": "85e6632e-0dd9-45c8-ae85-8a7ec6310e4a",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Recife",
+          "sort-name": "Recife",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "begin": "1966-06-19",
+          "end": "1997-02-02",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "Francisco de Assis França",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Francisco de Assis França",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ]
+      }
+    ]
+  },
+  "Secos & Molhados": {
+    "created": "2026-10-08T12:06:10.737Z",
+    "count": 256072,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "6840dcbe-3aca-4057-8d16-4799c3730e3a",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "Secos & Molhados",
+        "sort-name": "Secos & Molhados",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "33e0f86c-d709-448d-a484-d55778913af1",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "São Paulo",
+          "sort-name": "São Paulo",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "isnis": [
+          "0000000122930979"
+        ],
+        "life-span": {
+          "begin": "1971",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Secos e Molhados",
+            "name": "Secos e Molhados",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "glam rock"
+          },
+          {
+            "count": 2,
+            "name": "art pop"
+          },
+          {
+            "count": 0,
+            "name": "contemporary folk"
+          },
+          {
+            "count": 2,
+            "name": "mpb"
+          },
+          {
+            "count": 2,
+            "name": "folk pop"
+          },
+          {
+            "count": 2,
+            "name": "progressive pop"
+          }
+        ]
+      }
+    ]
+  },
+  "Priscila Senna": {
+    "created": "2026-10-08T12:06:12.843Z",
+    "count": 74,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "19801de7-189c-452c-bdc5-a562836e50fb",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Priscila Senna",
+        "sort-name": "Senna, Priscila",
+        "gender": "female",
+        "area": {
+          "id": "85e6632e-0dd9-45c8-ae85-8a7ec6310e4a",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Recife",
+          "sort-name": "Recife",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "434f1fd7-eec7-49d4-829c-ede23ef78c7a",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Olinda",
+          "sort-name": "Olinda",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Brazilian singer and songwriter",
+        "life-span": {
+          "begin": "1990-11-13",
+          "ended": null
+        },
+        "tags": [
+          {
+            "count": 1,
+            "name": "brega"
+          },
+          {
+            "count": 1,
+            "name": "bachata"
+          }
+        ]
+      }
+    ]
+  },
+  "Flora Matos": {
+    "created": "2026-10-08T12:06:15.173Z",
+    "count": 523,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "e3803c76-102d-4279-bc19-ffdc8a840385",
+        "score": 100,
+        "name": "Flora Matos",
+        "sort-name": "Matos, Flora",
+        "life-span": {
+          "ended": null
+        }
+      }
+    ]
+  },
+  "Evinha": {
+    "created": "2026-10-08T12:06:17.318Z",
+    "count": 1,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "0e649bfa-5e63-4454-9449-81ff21093920",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Evinha",
+        "sort-name": "Evinha",
+        "gender": "female",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "begin": "1951-09-17",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "エヴィーニャ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "エヴィーニャ",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Maria, Eva Correia José",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Eva Correia José Maria",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "mpb"
+          }
+        ]
+      }
+    ]
+  },
+  "Seu Jorge": {
+    "created": "2026-10-08T12:06:19.446Z",
+    "count": 3156,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "c73d651d-87c9-4c5e-8abb-4ec9c4077241",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Seu Jorge",
+        "sort-name": "Jorge, Seu",
+        "gender": "male",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "7244c934-93f3-4daf-8c4e-9323889ad63d",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Belford Roxo",
+          "sort-name": "Belford Roxo",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "isnis": [
+          "0000000114696334"
+        ],
+        "life-span": {
+          "begin": "1970-06-08",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Jorge Mário da Silva",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Jorge Mário da Silva",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "funk"
+          },
+          {
+            "count": 1,
+            "name": "mpb"
+          },
+          {
+            "count": 1,
+            "name": "latin"
+          },
+          {
+            "count": 1,
+            "name": "latin funk"
+          },
+          {
+            "count": 1,
+            "name": "rock and indie"
+          },
+          {
+            "count": 1,
+            "name": "south american"
+          },
+          {
+            "count": 2,
+            "name": "brazilian"
+          }
+        ]
+      }
+    ]
+  },
+  "Cássia Eller": {
+    "created": "2026-10-08T12:06:21.538Z",
+    "count": 2555,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "b3b9eb0c-d0b4-4570-b816-4e05e308b444",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Cássia Eller",
+        "sort-name": "Eller, Cássia",
+        "gender": "female",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "end-area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "isnis": [
+          "0000000059620555"
+        ],
+        "life-span": {
+          "begin": "1962-12-10",
+          "end": "2001-12-29",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "Eller, Cássia Rejane",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Cássia Rejane Eller",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Cassia Eller",
+            "name": "Cassia Eller",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "mpb"
+          },
+          {
+            "count": -1,
+            "name": "death by heart attack"
+          },
+          {
+            "count": 2,
+            "name": "rock"
+          }
+        ]
+      }
+    ]
+  },
+  "Roberto Carlos": {
+    "created": "2026-10-08T12:06:23.695Z",
+    "count": 5127,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "e43f8c07-2d2e-47fd-8279-dc0e9880882c",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Roberto Carlos",
+        "sort-name": "Roberto Carlos",
+        "gender": "male",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "7d63a8b5-98ce-44bd-a195-31be88b3006a",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Cachoeiro de Itapemirim",
+          "sort-name": "Cachoeiro de Itapemirim",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Brazilian singer-songwriter, \"King of Latin Music\"",
+        "ipis": [
+          "00128654952"
+        ],
+        "isnis": [
+          "0000000081873460"
+        ],
+        "life-span": {
+          "begin": "1941-04-19",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Braga Roberto Carlos",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "Braga Roberto Carlos",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Rei Roberto",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "Rei Roberto",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Rei",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "Rei",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "RC",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "RC",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Braga, Roberto Carlos",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Roberto Carlos Braga",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Roberto Carlos",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Roberto Carlos",
+            "locale": "pt",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 0,
+            "name": "fixme"
+          },
+          {
+            "count": 1,
+            "name": "jovem guarda"
+          },
+          {
+            "count": 0,
+            "name": "roberto carlos"
+          }
+        ]
+      }
+    ]
+  },
+  "Arlindo Cruz": {
+    "created": "2026-10-08T12:06:25.806Z",
+    "count": 1295,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "a0e7903d-cde4-4433-8487-8b7b130d715f",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Arlindo Cruz",
+        "sort-name": "Cruz, Arlindo",
+        "gender": "male",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "end-area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "brazilian singer and composer",
+        "ipis": [
+          "00211634606",
+          "00211634704",
+          "00240126222",
+          "00421677267"
+        ],
+        "isnis": [
+          "0000000077681191"
+        ],
+        "life-span": {
+          "begin": "1958-09-14",
+          "end": "2025-08-08",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "Cruz Filho, Arlindo Domingos da",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Arlindo Domingos da Cruz Filho",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "samba"
+          },
+          {
+            "count": 1,
+            "name": "pagode"
+          }
+        ]
+      }
+    ]
+  },
+  "Art Popular": {
+    "created": "2026-10-08T12:06:34.096Z",
+    "count": 58444,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "9c9d31ec-01ac-4d4e-a4b5-fce93b6b2618",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "Art Popular",
+        "sort-name": "Art Popular",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "33e0f86c-d709-448d-a484-d55778913af1",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "São Paulo",
+          "sort-name": "São Paulo",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "isnis": [
+          "0000000471953167"
+        ],
+        "life-span": {
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Art Popular",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Art Popular",
+            "locale": "pt_BR",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Grupo Art Popular",
+            "name": "Grupo Art Popular",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Arte Popular",
+            "name": "Arte Popular",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ]
+      }
+    ]
+  },
+  "Musa do Calypso": {
+    "created": "2026-10-08T12:06:36.181Z",
+    "count": 2721,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "0c6a9b96-31d0-4be3-9b3e-eef6fdac9716",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "Companhia do Calypso",
+        "sort-name": "Companhia do Calypso",
+        "life-span": {
+          "ended": null
+        }
+      }
+    ]
+  },
+  "Preta Gil": {
+    "created": "2026-10-08T12:06:38.271Z",
+    "count": 6535,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "6348666a-b266-49d7-836c-b9d4741ba646",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Preta Gil",
+        "sort-name": "Gil, Preta",
+        "gender": "female",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "end-area": {
+          "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "New York",
+          "sort-name": "New York",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00444870736",
+          "00444870932"
+        ],
+        "isnis": [
+          "0000000461998812"
+        ],
+        "life-span": {
+          "begin": "1974-08-08",
+          "end": "2025-07-20",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "Gadelha Gil Moreira, Preta Maria",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Preta Maria Gadelha Gil Moreira",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "pop"
+          },
+          {
+            "count": 1,
+            "name": "mpb"
+          }
+        ]
+      }
+    ]
+  },
+  "Belo": {
+    "created": "2026-10-08T12:06:40.330Z",
+    "count": 622,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "6e9412c2-642b-404b-afa5-047ab0d6ce3f",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Belo",
+        "sort-name": "Belo",
+        "gender": "male",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "33e0f86c-d709-448d-a484-d55778913af1",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "São Paulo",
+          "sort-name": "São Paulo",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Brazilian singer",
+        "life-span": {
+          "begin": "1974-04-22",
+          "ended": null
+        }
+      }
+    ]
+  },
+  "Grupo Fundo De Quintal": {
+    "created": "2026-10-08T12:06:42.447Z",
+    "count": 29317,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "04f71d27-a65f-4516-acc0-e078839b4db0",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "Grupo Fundo de Quintal",
+        "sort-name": "Fundo de Quintal",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "isnis": [
+          "0000000118817578"
+        ],
+        "life-span": {
+          "begin": "1978-01-20",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Fundo de Quintal",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Fundo de Quintal",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Grupo Fundo de Quintal",
+            "name": "Grupo Fundo de Quintal",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ]
+      }
+    ]
+  },
+  "O Rappa": {
+    "created": "2026-10-08T12:06:44.570Z",
+    "count": 4509,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "00034ede-a1f1-4219-be39-02f36853373e",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "O Rappa",
+        "sort-name": "Rappa, O",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "begin": "1994",
+          "end": "2018",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "Rappa",
+            "name": "Rappa",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "alternative rock"
+          },
+          {
+            "count": 1,
+            "name": "funk rock"
+          },
+          {
+            "count": 1,
+            "name": "samba rock"
+          },
+          {
+            "count": 1,
+            "name": "rap rock"
+          },
+          {
+            "count": 1,
+            "name": "experimental rock"
+          },
+          {
+            "count": 1,
+            "name": "reggae fusion"
+          },
+          {
+            "count": 1,
+            "name": "hip hop"
+          }
+        ]
+      }
+    ]
+  },
+  "Flávio José": {
+    "created": "2026-10-08T12:06:46.666Z",
+    "count": 10096,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "9f8aaa64-6859-48bd-b966-3b8efe62db25",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Flávio José",
+        "sort-name": "José, Flávio",
+        "gender": "male",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "5da34452-6bae-45e5-9496-f9bf24029f06",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "Paraíba",
+          "sort-name": "Paraíba",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Brazilian composer and singer",
+        "life-span": {
+          "begin": "1951-09-01",
+          "ended": null
+        },
+        "tags": [
+          {
+            "count": 1,
+            "name": "forró"
+          }
+        ]
+      }
+    ]
+  },
+  "Marina Sena": {
+    "created": "2026-10-08T12:06:48.769Z",
+    "count": 1464,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Marina Sena",
+        "sort-name": "Sena, Marina",
+        "gender": "female",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "9a660fa5-fba2-4172-86bc-62ce5de96250",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "Minas Gerais",
+          "sort-name": "Minas Gerais",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Brazilian singer-songwriter",
+        "ipis": [
+          "01013611716"
+        ],
+        "life-span": {
+          "begin": "1996-09-26",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "de Oliveira Sena, Marina",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Marina de Oliveira Sena",
+            "locale": "pt_BR",
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "mpb"
+          },
+          {
+            "count": 2,
+            "name": "pop"
+          }
+        ]
+      }
+    ]
+  },
+  "Léo Foguete": {
+    "created": "2026-10-08T12:06:50.888Z",
+    "count": 8848,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "8bbd5ffc-6507-4bfa-bcf0-4d502855a7f9",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "name": "Léo Foguete",
+        "sort-name": "Léo Foguete",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "ended": null
+        }
+      }
+    ]
+  },
+  "Ney Matogrosso": {
+    "created": "2026-10-08T12:06:52.959Z",
+    "count": 9295,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "67e97898-3bb5-412a-a51e-95a7b59a1bef",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Ney Matogrosso",
+        "sort-name": "Matogrosso, Ney",
+        "gender": "male",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "c6a3af9e-618b-461e-8f87-380656be4fb9",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "Mato Grosso do Sul",
+          "sort-name": "Mato Grosso do Sul",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "isnis": [
+          "0000000055151456"
+        ],
+        "life-span": {
+          "begin": "1941-08-01",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Matagrosso, Ney",
+            "name": "Ney Matagrosso",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Souza Pereira, Ney de",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Ney de Souza Pereira",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "pop"
+          },
+          {
+            "count": 1,
+            "name": "mpb"
+          }
+        ]
+      }
+    ]
   }
 }

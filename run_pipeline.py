@@ -30,3 +30,4 @@ if __name__ == "__main__":
     rodar_notebook("notebooks/transform/transform_musicbrainz.ipynb")
     rodar_notebook("notebooks/transform/merge_data.ipynb")
     print("Pipeline concluída com sucesso!")
+
