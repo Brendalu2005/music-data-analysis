@@ -1,4 +1,5 @@
 import requests, json, time, os
+MAX_TENTATIVAS = 3
 
 lista_tracks = []
 lista_artista = set() # declaração de uma lista que não aceita itens repetidos
@@ -39,6 +40,18 @@ for artista in lista_artista:
         "User-Agent": "music-data-analysis/1.0 (brenda.luanacb@gmail.com)"
 
     }
+
+
+    for tentativa in range(1, MAX_TENTATIVAS + 1):
+        response = requests.get(url, params=parametros, headers=headers)
+        if response.status_code == 200:
+            dados_artistas[artista] = response.json()
+            break
+        print(f"Falha em {artista} (status {response.status_code}), tentativa {tentativa}/{MAX_TENTATIVAS}")
+        time.sleep(5)
+
+    if artista not in dados_artistas:
+        print(f"Não foi possível coletar {artista}")
 
     response = requests.get(url, params=parametros, headers=headers)
     if response.status_code == 200:

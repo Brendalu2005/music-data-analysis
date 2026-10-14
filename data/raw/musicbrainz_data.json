@@ -25915,5 +25915,4228 @@
         ]
       }
     ]
+  },
+  "Ethel Cain": {
+    "created": "2026-10-14T21:10:37.045Z",
+    "count": 960,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "677e31f1-4035-463c-8ca4-41175440c919",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Ethel Cain",
+        "sort-name": "Cain, Ethel",
+        "gender": "female",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "15c5ef04-3f80-485f-87ee-d538d1dfa3f1",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Tallahassee",
+          "sort-name": "Tallahassee",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "01033221522"
+        ],
+        "isnis": [
+          "0000000502385044"
+        ],
+        "life-span": {
+          "begin": "1998-03-24",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Етель Кейн",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Етель Кейн",
+            "locale": "uk",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Этель Кейн",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Этель Кейн",
+            "locale": "ru",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "에설 케인",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "에설 케인",
+            "locale": "ko",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "אתל קיין",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "אתל קיין",
+            "locale": "he",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "اتل کین",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "اتل کین",
+            "locale": "fa",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Keyn, Etel",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Etel Keyn",
+            "locale": "az",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Anhedönia, Hayden",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Hayden Anhedönia",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Anhedönia, Hayden Silas",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Hayden Silas Anhedönia",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "rock"
+          },
+          {
+            "count": 2,
+            "name": "post-rock"
+          },
+          {
+            "count": 2,
+            "name": "alternative rock"
+          },
+          {
+            "count": -1,
+            "name": "shoegaze"
+          },
+          {
+            "count": 1,
+            "name": "ambient"
+          },
+          {
+            "count": 5,
+            "name": "singer-songwriter"
+          },
+          {
+            "count": 5,
+            "name": "americana"
+          },
+          {
+            "count": 7,
+            "name": "dream pop"
+          },
+          {
+            "count": 3,
+            "name": "gothic rock"
+          },
+          {
+            "count": 4,
+            "name": "dark ambient"
+          },
+          {
+            "count": 4,
+            "name": "ethereal wave"
+          },
+          {
+            "count": 9,
+            "name": "slowcore"
+          },
+          {
+            "count": 3,
+            "name": "queer"
+          },
+          {
+            "count": 2,
+            "name": "alternative folk"
+          },
+          {
+            "count": 2,
+            "name": "southern gothic"
+          },
+          {
+            "count": 2,
+            "name": "2020s"
+          },
+          {
+            "count": 0,
+            "name": "ambient americana"
+          },
+          {
+            "count": 2,
+            "name": "gen z"
+          }
+        ]
+      }
+    ]
+  },
+  "Tori Kelly": {
+    "created": "2026-10-14T21:10:38.960Z",
+    "count": 6090,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "e4b87494-a5eb-439d-b3bf-5f1b46d4dc6b",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Tori Kelly",
+        "sort-name": "Kelly, Tori",
+        "gender": "female",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "674a2dd2-1b8d-4833-8265-6de308d8326b",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Wildomar",
+          "sort-name": "Wildomar",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00543596527",
+          "00543596625"
+        ],
+        "isnis": [
+          "0000000444207521"
+        ],
+        "life-span": {
+          "begin": "1992-12-14",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Kelly, Victoria Loren",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Victoria Loren Kelly",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "pop"
+          },
+          {
+            "count": 4,
+            "name": "soul"
+          },
+          {
+            "count": 1,
+            "name": "producer"
+          },
+          {
+            "count": 1,
+            "name": "southern soul"
+          },
+          {
+            "count": 1,
+            "name": "neo soul"
+          },
+          {
+            "count": 1,
+            "name": "god"
+          },
+          {
+            "count": 1,
+            "name": "hip hop soul"
+          },
+          {
+            "count": 1,
+            "name": "pop soul"
+          },
+          {
+            "count": 1,
+            "name": "sxsw"
+          },
+          {
+            "count": 1,
+            "name": "smooth soul"
+          },
+          {
+            "count": 1,
+            "name": "christian hip hop"
+          },
+          {
+            "count": 2,
+            "name": "contemporary r&b"
+          },
+          {
+            "count": 1,
+            "name": "holy hip hop"
+          },
+          {
+            "count": 1,
+            "name": "lecrae"
+          },
+          {
+            "count": 1,
+            "name": "austin city limits"
+          },
+          {
+            "count": 1,
+            "name": "i'll find you"
+          }
+        ]
+      }
+    ]
+  },
+  "a-ha": {
+    "created": "2026-10-14T21:10:40.812Z",
+    "count": 22920,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "7364dea6-ca9a-48e3-be01-b44ad0d19897",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "a‐ha",
+        "sort-name": "a‐ha",
+        "country": "NO",
+        "area": {
+          "id": "6743d351-6f37-3049-9724-5041161fff4d",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Norway",
+          "sort-name": "Norway",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "f80d529e-f242-46ef-a090-d193ed23075f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Oslo",
+          "sort-name": "Oslo",
+          "life-span": {
+            "begin": "1925-01-01",
+            "ended": null
+          }
+        },
+        "disambiguation": "Norwegian synth‐pop band",
+        "isnis": [
+          "000000012264530X"
+        ],
+        "life-span": {
+          "begin": "1983",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "A-ha",
+            "name": "A-ha",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "A Ha",
+            "name": "A Ha",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Aha",
+            "name": "Aha",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 0,
+            "name": "rock"
+          },
+          {
+            "count": 0,
+            "name": "electronic"
+          },
+          {
+            "count": 0,
+            "name": "post-rock"
+          },
+          {
+            "count": 2,
+            "name": "synthpop"
+          },
+          {
+            "count": 7,
+            "name": "pop"
+          },
+          {
+            "count": 6,
+            "name": "norwegian"
+          },
+          {
+            "count": 15,
+            "name": "new wave"
+          },
+          {
+            "count": 5,
+            "name": "synth-pop"
+          },
+          {
+            "count": 0,
+            "name": "electropop"
+          },
+          {
+            "count": 1,
+            "name": "1980s"
+          },
+          {
+            "count": 1,
+            "name": "1990s"
+          },
+          {
+            "count": 1,
+            "name": "2000s"
+          },
+          {
+            "count": 2,
+            "name": "dance-pop"
+          },
+          {
+            "count": 0,
+            "name": "pop rock"
+          },
+          {
+            "count": 0,
+            "name": "new romantic"
+          },
+          {
+            "count": 0,
+            "name": "european"
+          },
+          {
+            "count": 0,
+            "name": "norsk"
+          },
+          {
+            "count": 1,
+            "name": "synth pop"
+          },
+          {
+            "count": 0,
+            "name": "video"
+          },
+          {
+            "count": 0,
+            "name": "pop and chart"
+          },
+          {
+            "count": 1,
+            "name": "euro-pop"
+          },
+          {
+            "count": 1,
+            "name": "euro-dance"
+          },
+          {
+            "count": 1,
+            "name": "sophisti-pop"
+          },
+          {
+            "count": 0,
+            "name": "punk/new wave"
+          },
+          {
+            "count": 0,
+            "name": "club/dance"
+          },
+          {
+            "count": 0,
+            "name": "dance-rock"
+          },
+          {
+            "count": 0,
+            "name": "alphaville"
+          },
+          {
+            "count": 0,
+            "name": "euro-rock"
+          }
+        ]
+      }
+    ]
+  },
+  "Anitta": {
+    "created": "2026-10-14T21:10:42.645Z",
+    "count": 14,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "d606b860-cc03-4959-a3fd-3a24bccf2560",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Anitta",
+        "sort-name": "Anitta",
+        "gender": "female",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Brazilian singer",
+        "isnis": [
+          "0000000467087470"
+        ],
+        "life-span": {
+          "begin": "1993-03-30",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Machado, Larissa de Macedo",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Larissa de Macedo Machado",
+            "locale": "pt",
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "MC Anitta",
+            "name": "MC Anitta",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "latin pop"
+          },
+          {
+            "count": 0,
+            "name": "pop soul"
+          },
+          {
+            "count": 1,
+            "name": "reggaeton"
+          },
+          {
+            "count": 2,
+            "name": "latin"
+          },
+          {
+            "count": 0,
+            "name": "anitta"
+          },
+          {
+            "count": 1,
+            "name": "teen pop"
+          },
+          {
+            "count": 3,
+            "name": "pop"
+          },
+          {
+            "count": 4,
+            "name": "funk"
+          }
+        ]
+      }
+    ]
+  },
+  "Cartola": {
+    "created": "2026-10-14T21:10:44.319Z",
+    "count": 8,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "7c743881-aed4-47d4-93d5-9fdd6e2904bb",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Cartola",
+        "sort-name": "Cartola",
+        "gender": "male",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "end-area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00005383505",
+          "00022853104",
+          "00066497439",
+          "00137382176",
+          "00211730907"
+        ],
+        "isnis": [
+          "000000012022566X"
+        ],
+        "life-span": {
+          "begin": "1908-10-11",
+          "end": "1980-11-30",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "Angenor De Oliveira",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Angenor De Oliveira",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "samba"
+          },
+          {
+            "count": 1,
+            "name": "latin"
+          }
+        ]
+      }
+    ]
+  },
+  "Agnes Nunes": {
+    "created": "2026-10-14T21:10:46.139Z",
+    "count": 608,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "2f5d7fe7-4e28-473d-936e-6d7b99007846",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Agnes Nunes",
+        "sort-name": "Nunes, Agnes",
+        "gender": "female",
+        "area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "943fc54c-e643-4a16-926d-08e0dedf5667",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "Bahia",
+          "sort-name": "Bahia",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Brazilian singer",
+        "life-span": {
+          "begin": "2002-04-05",
+          "ended": null
+        },
+        "tags": [
+          {
+            "count": 1,
+            "name": "pop"
+          }
+        ]
+      }
+    ]
+  },
+  "Diego & Victor Hugo": {
+    "created": "2026-10-14T21:10:48.224Z",
+    "count": 262424,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "d66a16bd-3efc-40ae-b392-12b7882ae677",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "Diego & Victor Hugo",
+        "sort-name": "Diego & Victor Hugo",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "begin": "2009-01-01",
+          "ended": null
+        },
+        "tags": [
+          {
+            "count": 1,
+            "name": "sertanejo"
+          }
+        ]
+      }
+    ]
+  },
+  "Nação Zumbi": {
+    "created": "2026-10-14T21:10:50.067Z",
+    "count": 31,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "e3954b21-0d05-45ea-a057-e8cc4c9b1ab5",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "Nação Zumbi",
+        "sort-name": "Nação Zumbi",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "85e6632e-0dd9-45c8-ae85-8a7ec6310e4a",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Recife",
+          "sort-name": "Recife",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "isnis": [
+          "0000000089540302"
+        ],
+        "life-span": {
+          "begin": "1991",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Chico Science & Nação Zumbi",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Chico Science & Nação Zumbi",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": "1991",
+            "end-date": "1997"
+          },
+          {
+            "sort-name": "Nacao Zumbi Na Terra & Chico is Science",
+            "name": "Nacao Zumbi Na Terra & Chico is Science",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Chico Science & NaзгO Zumbi",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "Chico Science & NaзгO Zumbi",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Chico Science and Nação Zumbi",
+            "name": "Chico Science and Nação Zumbi",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Chico Science & Nagco Zumbi",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "Chico Science & Nagco Zumbi",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "mangue beat"
+          }
+        ]
+      }
+    ]
+  },
+  "Mollie Elizabeth": {
+    "created": "2026-10-14T21:10:53.505Z",
+    "count": 1622,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "adef6e0a-0610-45df-8a17-55aa92a47c15",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Mollie Elizabeth",
+        "sort-name": "Mollie Elizabeth",
+        "gender": "female",
+        "area": {
+          "id": "39383cce-6f78-4afe-b19a-8377995ce702",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "Washington",
+          "sort-name": "Washington",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "ended": null
+        },
+        "tags": [
+          {
+            "count": 1,
+            "name": "pop"
+          },
+          {
+            "count": 1,
+            "name": "singer-songwriter"
+          },
+          {
+            "count": 1,
+            "name": "whimsical pop"
+          },
+          {
+            "count": 1,
+            "name": "whimsy pop"
+          }
+        ]
+      }
+    ]
+  },
+  "No Doubt": {
+    "created": "2026-10-14T21:10:55.367Z",
+    "count": 5271,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "fbd2a255-1d57-4d31-ac11-65b671c19958",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "No Doubt",
+        "sort-name": "No Doubt",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "7f1cf724-b398-42f8-aa82-ecd190736ebf",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Anaheim",
+          "sort-name": "Anaheim",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "American rock band",
+        "isnis": [
+          "0000000123699887"
+        ],
+        "life-span": {
+          "begin": "1986-12",
+          "ended": null
+        },
+        "tags": [
+          {
+            "count": 2,
+            "name": "rock"
+          },
+          {
+            "count": 2,
+            "name": "pop"
+          },
+          {
+            "count": 4,
+            "name": "alternative rock"
+          },
+          {
+            "count": 0,
+            "name": "american"
+          },
+          {
+            "count": 2,
+            "name": "ska"
+          },
+          {
+            "count": 9,
+            "name": "ska punk"
+          },
+          {
+            "count": 1,
+            "name": "power pop"
+          },
+          {
+            "count": 5,
+            "name": "pop rock"
+          },
+          {
+            "count": 3,
+            "name": "third wave ska"
+          },
+          {
+            "count": -1,
+            "name": "gwen stefani"
+          },
+          {
+            "count": 1,
+            "name": "rock and indie"
+          },
+          {
+            "count": 1,
+            "name": "united states"
+          },
+          {
+            "count": 0,
+            "name": "c’était mieux avant"
+          },
+          {
+            "count": 1,
+            "name": "pop reggae"
+          },
+          {
+            "count": 1,
+            "name": "2008 universal fire victim"
+          }
+        ]
+      }
+    ]
+  },
+  "Frank Ocean": {
+    "created": "2026-10-14T21:10:57.444Z",
+    "count": 8970,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "e520459c-dff4-491d-a6e4-c97be35e0044",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Frank Ocean",
+        "sort-name": "Ocean, Frank",
+        "gender": "male",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "e183ffae-1d35-4c78-b552-957535e40af1",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Long Beach",
+          "sort-name": "Long Beach",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00551156078"
+        ],
+        "isnis": [
+          "0000000367936762"
+        ],
+        "life-span": {
+          "begin": "1987-10-28",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Ocean, Frank",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "フランクオーシャン",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Christopher Francis Ocean",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Christopher Francis Ocean",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Ocean, Frank",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "フランク・オーシャン",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 3,
+            "name": "pop"
+          },
+          {
+            "count": 1,
+            "name": "hip hop"
+          },
+          {
+            "count": 1,
+            "name": "soul"
+          },
+          {
+            "count": 2,
+            "name": "rnb"
+          },
+          {
+            "count": 1,
+            "name": "neo soul"
+          },
+          {
+            "count": 1,
+            "name": "queer"
+          },
+          {
+            "count": 3,
+            "name": "r&b"
+          },
+          {
+            "count": 4,
+            "name": "contemporary r&b"
+          },
+          {
+            "count": 2,
+            "name": "alternative r&b"
+          },
+          {
+            "count": 0,
+            "name": "server name"
+          }
+        ]
+      }
+    ]
+  },
+  "The Main Ingredient": {
+    "created": "2026-10-14T21:10:59.265Z",
+    "count": 197617,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "ee06187e-f6db-46e0-8164-be626127673d",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "The Main Ingredient",
+        "sort-name": "Main Ingredient, The",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+          "type": "District",
+          "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+          "name": "Manhattan",
+          "sort-name": "Manhattan",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "begin": "1964",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "Main Ingredient",
+            "name": "Main Ingredient",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Main Ingrediennt",
+            "name": "Main Ingrediennt",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "soul"
+          },
+          {
+            "count": 1,
+            "name": "r&b"
+          }
+        ]
+      }
+    ]
+  },
+  "Pequeno Cidadão": {
+    "created": "2026-10-14T21:11:01.192Z",
+    "count": 52,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "12902ff3-4609-47ef-a21c-82eaabad315f",
+        "score": 100,
+        "name": "Pequeno Cidadão",
+        "sort-name": "Pequeno Cidadão",
+        "disambiguation": "Arnaldo Antunes / Antonio Pinto / Edgard Scandurra / Taciana Barros",
+        "life-span": {
+          "ended": null
+        }
+      }
+    ]
+  },
+  "The Cranberries": {
+    "created": "2026-10-14T21:11:03.032Z",
+    "count": 195648,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "c98d40fd-f6cf-4b26-883e-eaa515ee2851",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "The Cranberries",
+        "sort-name": "Cranberries, The",
+        "country": "IE",
+        "area": {
+          "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Ireland",
+          "sort-name": "Ireland",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "1063266a-afe6-4fb3-ab51-0d290a79f979",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Limerick",
+          "sort-name": "Limerick",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "isnis": [
+          "0000000123588415"
+        ],
+        "life-span": {
+          "begin": "1989",
+          "end": "2019-04-26",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "クランベリーズ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "クランベリーズ",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "The Cramberries",
+            "name": "The Cramberries",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Cranberry Saw Us, The",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "The Cranberry Saw Us",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ザクランベリーズ",
+            "name": "ザクランベリーズ",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Cranberries",
+            "name": "Cranberries",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ザ・クランベリーズ",
+            "name": "ザ・クランベリーズ",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 8,
+            "name": "rock"
+          },
+          {
+            "count": 0,
+            "name": "pop"
+          },
+          {
+            "count": 15,
+            "name": "alternative rock"
+          },
+          {
+            "count": 0,
+            "name": "irish"
+          },
+          {
+            "count": -1,
+            "name": "british"
+          },
+          {
+            "count": 0,
+            "name": "grunge"
+          },
+          {
+            "count": 0,
+            "name": "post-punk"
+          },
+          {
+            "count": 0,
+            "name": "indie rock"
+          },
+          {
+            "count": -1,
+            "name": "ireland"
+          },
+          {
+            "count": -1,
+            "name": "alternative"
+          },
+          {
+            "count": 0,
+            "name": "female vocalists"
+          },
+          {
+            "count": 1,
+            "name": "soft rock"
+          },
+          {
+            "count": 1,
+            "name": "acoustic rock"
+          },
+          {
+            "count": 4,
+            "name": "jangle pop"
+          },
+          {
+            "count": 5,
+            "name": "pop rock"
+          },
+          {
+            "count": 4,
+            "name": "dream pop"
+          },
+          {
+            "count": 1,
+            "name": "ethereal wave"
+          },
+          {
+            "count": 1,
+            "name": "celtic rock"
+          },
+          {
+            "count": 1,
+            "name": "chamber pop"
+          },
+          {
+            "count": -1,
+            "name": "eire"
+          },
+          {
+            "count": 0,
+            "name": "classic pop and rock"
+          },
+          {
+            "count": -1,
+            "name": "limerick"
+          },
+          {
+            "count": 0,
+            "name": "big music"
+          }
+        ]
+      }
+    ]
+  },
+  "Lady Gaga": {
+    "created": "2026-10-14T21:11:04.780Z",
+    "count": 1971,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Lady Gaga",
+        "sort-name": "Lady Gaga",
+        "gender": "female",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "7e4475a3-56a0-4a79-9e0d-c19881e14631",
+          "type": "District",
+          "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+          "name": "Upper East Side",
+          "sort-name": "Upper East Side",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00519338344",
+          "00519338442",
+          "00519338540"
+        ],
+        "isnis": [
+          "0000000120254559"
+        ],
+        "life-span": {
+          "begin": "1986-03-28",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "嘎嘎小姐",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "嘎嘎小姐",
+            "locale": "zh_Hant",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Леді Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Леді Гага",
+            "locale": "uk",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Lēdija Gāga",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Lēdija Gāga",
+            "locale": "lv",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "史蒂芬妮·乔安妮·安吉丽娜·杰尔马诺塔",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "史蒂芬妮·乔安妮·安吉丽娜·杰尔马诺塔",
+            "locale": "zh",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "女神卡卡",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "女神卡卡",
+            "locale": "zh",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ליידי גאגא",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ליידי גאגא",
+            "locale": "yi",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "لیڈی گاگا",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "لیڈی گاگا",
+            "locale": "ur",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Сте́фані Джоа́н Анджеліна Джермано́тта",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Сте́фані Джоа́н Анджеліна Джермано́тта",
+            "locale": "uk",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Леді Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Леді Гага",
+            "locale": "uk",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "لېيدى گاگا",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "لېيدى گاگا",
+            "locale": "ug",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Леди Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Леди Гага",
+            "locale": "tyv",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Леди Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Леди Гага",
+            "locale": "tt",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "สเตฟานี โจแอนน์ แอนเจลินา เจอร์มาน็อตตา",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "สเตฟานี โจแอนน์ แอนเจลินา เจอร์มาน็อตตา",
+            "locale": "th",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "เลดีกากา",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "เลดีกากา",
+            "locale": "th",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Лейди Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Лейди Гага",
+            "locale": "tg",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "లేడీ గాగా",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "లేడీ గాగా",
+            "locale": "te",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "லேடி காகா",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "லேடி காகா",
+            "locale": "ta",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Стефани Џоан Анџелина Џерманота",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Стефани Џоан Анџелина Џерманота",
+            "locale": "sr",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Лејди Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Лејди Гага",
+            "locale": "sr",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Џо Калдероне",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Џо Калдероне",
+            "locale": "sr",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "لیڈی گاگا",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "لیڈی گاگا",
+            "locale": "skr",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ලේඩි ගාගා",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ලේඩි ගාගා",
+            "locale": "si",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ᱞᱮᱰᱤ ᱜᱟᱜᱟ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ᱞᱮᱰᱤ ᱜᱟᱜᱟ",
+            "locale": "sat",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Леди Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Леди Гага",
+            "locale": "sah",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Джо Кальдероне",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Джо Кальдероне",
+            "locale": "ru",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Сте́фани Джоа́нн Анджели́на Джермано́тта",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Сте́фани Джоа́нн Анджели́на Джермано́тта",
+            "locale": "ru",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Леди Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Леди Гага",
+            "locale": "ru",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ਸਟੇਫ਼ਨੀ ਜੋਐਨ ਏਂਜੇਲੀਨਾ ਜਰਮਨੋਟਾ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ਸਟੇਫ਼ਨੀ ਜੋਐਨ ਏਂਜੇਲੀਨਾ ਜਰਮਨੋਟਾ",
+            "locale": "pa",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ਲੇਡੀ ਗਾਗਾ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ਲੇਡੀ ਗਾਗਾ",
+            "locale": "pa",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ଲେଡି ଗାଗା",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ଲେଡି ଗାଗା",
+            "locale": "or",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "लेडी गागा",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "लेडी गागा",
+            "locale": "ne",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "स्टेफनी जोएन एन्जेलिना जर्मनोट्टा",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "स्टेफनी जोएन एन्जेलिना जर्मनोट्टा",
+            "locale": "ne",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "လေဒီဂါဂါ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "လေဒီဂါဂါ",
+            "locale": "my",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "स्टेफनी जोआन अँजेलिना जर्मानोटा",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "स्टेफनी जोआन अँजेलिना जर्मानोटा",
+            "locale": "mr",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "लेडी गागा",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "लेडी गागा",
+            "locale": "mr",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Стефани Жоанн Анжелина Жерманотта",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Стефани Жоанн Анжелина Жерманотта",
+            "locale": "mn",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Лэди Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Лэди Гага",
+            "locale": "mn",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ലേഡി ഗാഗ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ലേഡി ഗാഗ",
+            "locale": "ml",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Лејди Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Лејди Гага",
+            "locale": "mk",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "लेडी गागा",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "लेडी गागा",
+            "locale": "mai",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ເລດີ້ ກາກ້າ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ເລດີ້ ກາກ້າ",
+            "locale": "lo",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Леди Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Леди Гага",
+            "locale": "ky",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "لیڈی گاگا",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "لیڈی گاگا",
+            "locale": "ks",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "스테퍼니 조앤 앤젤리나 제르마노타",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "스테퍼니 조앤 앤젤리나 제르마노타",
+            "locale": "ko",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "레이디 가가",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "레이디 가가",
+            "locale": "ko",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ಲೇಡಿ ಗಾಗಾ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ಲೇಡಿ ಗಾಗಾ",
+            "locale": "kn",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ឡេឌី ហ្គាហ្គា",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ឡេឌី ហ្គាហ្គា",
+            "locale": "km",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ლედი გაგა",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ლედი გაგა",
+            "locale": "ka",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ステファニー・ジョアン・アンジェリーナ・ジャーマノッタ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ステファニー・ジョアン・アンジェリーナ・ジャーマノッタ",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Լէյտի Կակա",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Լէյտի Կակա",
+            "locale": "hy",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Լեդի Գագա",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Լեդի Գագա",
+            "locale": "hy",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "लेडी गागा",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "लेडी गागा",
+            "locale": "hi",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "סטפני ג'ואן אנג'לינה ג'רמנוטה",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "סטפני ג'ואן אנג'לינה ג'רמנוטה",
+            "locale": "he",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ליידי גאגא",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ליידי גאגא",
+            "locale": "he",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Germanotta, Stefani Joanne Angelina",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Stefani Joanne Angelina Germanotta",
+            "locale": "it",
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Germanotta, S.",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "S. Germanotta",
+            "locale": "it",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Germanotta, Stefani",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Stefani Germanotta",
+            "locale": "it",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Calderone, Jo",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Jo Calderone",
+            "locale": "it",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "લેડી ગાગા",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "લેડી ગાગા",
+            "locale": "gu",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "جوآن استفانی جرمانوتا",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "جوآن استفانی جرمانوتا",
+            "locale": "fa",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "لیدی گاگا",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "لیدی گاگا",
+            "locale": "fa",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Στέφανι Τζοάν Αντζελίνα Τζερμανότα",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Στέφανι Τζοάν Αντζελίνα Τζερμανότα",
+            "locale": "el",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Λέιντι Γκάγκα",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Λέιντι Γκάγκα",
+            "locale": "el",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Леди Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Леди Гага",
+            "locale": "cv",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "لەیدی گاگا",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "لەیدی گاگا",
+            "locale": "ku",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Леди Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Леди Гага",
+            "locale": "ce",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Lejdi Gaga",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Лејди Гага",
+            "locale": "bs_Cyrl",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Lejdi Gaga",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Lejdi Gaga",
+            "locale": "bs_Latn",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Ledi Qaqa",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Ledi Qaqa",
+            "locale": "az_Latn",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Ledi Qaqa",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "لیدی قاقا",
+            "locale": "az_Arab",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "লেডি গাগা",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "লেডি গাগা",
+            "locale": "bn",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "लेडी गागा",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "लेडी गागा",
+            "locale": "bho",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Лейди Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Лейди Гага",
+            "locale": "bg",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Стэфані Джаан Анджэліна Джэрманота",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Стэфані Джаан Анджэліна Джэрманота",
+            "locale": "be",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Лэдзі Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Лэдзі Гага",
+            "locale": "be",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Леди Гага",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Леди Гага",
+            "locale": "ba",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "লেডী গাগা",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "লেডী গাগা",
+            "locale": "as",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ليدى جاجا",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ليدى جاجا",
+            "locale": "ar_EG",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ليدي ڭاڭا",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ليدي ڭاڭا",
+            "locale": "ar_MA",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ستيفاني جيرمانوتا",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ستيفاني جيرمانوتا",
+            "locale": "ar",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ليدي غاغا",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ليدي غاغا",
+            "locale": "ar",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ስቲፋኒ ጆአኒ አንጀሊና ጀርማኖታ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ስቲፋኒ ጆአኒ አንጀሊና ጀርማኖታ",
+            "locale": "am",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "በሌዲ ጋጋ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "በሌዲ ጋጋ",
+            "locale": "am",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Germanota, Stefanija Džoana Andželina",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Stefanija Džoana Andželina Germanota",
+            "locale": "lt",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Lady Ga Ga",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "Lady Ga Ga",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "レディー・ガガ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "レディー・ガガ",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "rock"
+          },
+          {
+            "count": 6,
+            "name": "electronic"
+          },
+          {
+            "count": 2,
+            "name": "synthpop"
+          },
+          {
+            "count": 24,
+            "name": "pop"
+          },
+          {
+            "count": 1,
+            "name": "jazz"
+          },
+          {
+            "count": 4,
+            "name": "dance"
+          },
+          {
+            "count": -1,
+            "name": "american"
+          },
+          {
+            "count": 1,
+            "name": "singer-songwriter"
+          },
+          {
+            "count": -1,
+            "name": "usa"
+          },
+          {
+            "count": 7,
+            "name": "synth-pop"
+          },
+          {
+            "count": 17,
+            "name": "electropop"
+          },
+          {
+            "count": 0,
+            "name": "disco"
+          },
+          {
+            "count": 1,
+            "name": "americana"
+          },
+          {
+            "count": -1,
+            "name": "américain"
+          },
+          {
+            "count": 2,
+            "name": "female vocals"
+          },
+          {
+            "count": 0,
+            "name": "2000s"
+          },
+          {
+            "count": 20,
+            "name": "dance-pop"
+          },
+          {
+            "count": 0,
+            "name": "adult contemporary"
+          },
+          {
+            "count": 9,
+            "name": "pop rock"
+          },
+          {
+            "count": 0,
+            "name": "europop"
+          },
+          {
+            "count": 1,
+            "name": "electro house"
+          },
+          {
+            "count": 1,
+            "name": "edm"
+          },
+          {
+            "count": 1,
+            "name": "film soundtrack"
+          },
+          {
+            "count": -2,
+            "name": "united states"
+          },
+          {
+            "count": -1,
+            "name": "britney spears"
+          },
+          {
+            "count": -2,
+            "name": "the fame"
+          },
+          {
+            "count": -1,
+            "name": "gata rahe mera dil"
+          },
+          {
+            "count": 1,
+            "name": "2010s"
+          },
+          {
+            "count": 1,
+            "name": "art pop"
+          },
+          {
+            "count": -2,
+            "name": "edge of glory"
+          },
+          {
+            "count": 1,
+            "name": "millennial"
+          },
+          {
+            "count": -1,
+            "name": "saxx dreams"
+          },
+          {
+            "count": 0,
+            "name": "server name"
+          },
+          {
+            "count": 1,
+            "name": "industrial pop"
+          },
+          {
+            "count": 0,
+            "name": "2020s"
+          },
+          {
+            "count": 1,
+            "name": "late 2000s"
+          },
+          {
+            "count": 0,
+            "name": "nuno"
+          }
+        ]
+      }
+    ]
+  },
+  "Tim Bernardes": {
+    "created": "2026-10-14T21:11:08.267Z",
+    "count": 12846,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "2afe142b-93af-49f8-a23f-373c02de1ae0",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Tim Bernardes",
+        "sort-name": "Bernardes, Tim",
+        "gender": "male",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "204dd468-f79e-475d-94a7-64e417246439",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "São Paulo",
+          "sort-name": "São Paulo",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Brazilian singer, musician, et al.",
+        "ipis": [
+          "00653641542"
+        ],
+        "isnis": [
+          "0000000133492724"
+        ],
+        "life-span": {
+          "begin": "1991-06-18",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Bernardes, Martim",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Martim Bernardes",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "pop"
+          },
+          {
+            "count": 1,
+            "name": "mpb"
+          },
+          {
+            "count": 1,
+            "name": "nova mpb"
+          }
+        ]
+      }
+    ]
+  },
+  "MC Leozinho": {
+    "created": "2026-10-14T21:11:10.362Z",
+    "count": 7392,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "af6e345e-70b8-4fd9-81d3-ad40b2f6f7e2",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "MC Leozinho",
+        "sort-name": "Leozinho, MC",
+        "gender": "male",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "76036f8c-1d1c-42eb-8cdf-f7c197751dbf",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Niterói",
+          "sort-name": "Niterói",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "begin": "1977-05-06",
+          "ended": null
+        },
+        "tags": [
+          {
+            "count": 1,
+            "name": "funk melody"
+          },
+          {
+            "count": 1,
+            "name": "funk"
+          }
+        ]
+      }
+    ]
+  },
+  "Frank Sinatra": {
+    "created": "2026-10-14T21:11:12.250Z",
+    "count": 8163,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "197450cd-0124-4164-b723-3c22dd16494d",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Frank Sinatra",
+        "sort-name": "Sinatra, Frank",
+        "gender": "male",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "0a61386e-15df-4a38-a1f6-d751e133a1a9",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Hoboken",
+          "sort-name": "Hoboken",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "end-area": {
+          "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Los Angeles",
+          "sort-name": "Los Angeles",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "American singer and actor, “Ol’ Blue Eyes”",
+        "ipis": [
+          "00028814966"
+        ],
+        "isnis": [
+          "0000000108823528"
+        ],
+        "life-span": {
+          "begin": "1915-12-12",
+          "end": "1998-05-14",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "Sinatra",
+            "name": "Sinatra",
+            "locale": "en",
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Sinatra, Francis Albert",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Francis Albert Sinatra",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Frankie Satin",
+            "name": "Frankie Satin",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "フランク・シナトラ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "フランク・シナトラ",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Sinatra Frank",
+            "name": "Sinatra Frank",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Frank Sinartra",
+            "name": "Frank Sinartra",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "pop"
+          },
+          {
+            "count": 12,
+            "name": "jazz"
+          },
+          {
+            "count": 3,
+            "name": "easy listening"
+          },
+          {
+            "count": 1,
+            "name": "vocal"
+          },
+          {
+            "count": 1,
+            "name": "lounge"
+          },
+          {
+            "count": 0,
+            "name": "baroque pop"
+          },
+          {
+            "count": 1,
+            "name": "christmas"
+          },
+          {
+            "count": 9,
+            "name": "swing"
+          },
+          {
+            "count": 4,
+            "name": "big band"
+          },
+          {
+            "count": 8,
+            "name": "vocal jazz"
+          },
+          {
+            "count": 0,
+            "name": "columbia"
+          },
+          {
+            "count": 0,
+            "name": "easy listening soundtracks and musicals"
+          },
+          {
+            "count": 1,
+            "name": "singers"
+          },
+          {
+            "count": 3,
+            "name": "standards"
+          },
+          {
+            "count": 7,
+            "name": "traditional pop"
+          },
+          {
+            "count": 1,
+            "name": "acting"
+          },
+          {
+            "count": 1,
+            "name": "ultimate"
+          },
+          {
+            "count": 1,
+            "name": "singing"
+          },
+          {
+            "count": 3,
+            "name": "christmas music"
+          },
+          {
+            "count": 1,
+            "name": "actors"
+          },
+          {
+            "count": -1,
+            "name": "garland"
+          },
+          {
+            "count": -1,
+            "name": "chrismas"
+          },
+          {
+            "count": 0,
+            "name": "duets"
+          },
+          {
+            "count": -1,
+            "name": "swing; jazz; big band; christmas"
+          },
+          {
+            "count": -1,
+            "name": "my way"
+          },
+          {
+            "count": 1,
+            "name": "motion pictures--production and direction"
+          },
+          {
+            "count": 1,
+            "name": "motion picture producers and directors"
+          }
+        ]
+      }
+    ]
+  },
+  "Claudinho & Buchecha": {
+    "created": "2026-10-14T21:11:19.005Z",
+    "count": 256558,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "593b16bb-f2f8-48a1-a519-0ccc7fbc4bd0",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "Claudinho & Buchecha",
+        "sort-name": "Claudinho & Buchecha",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "begin": "1996",
+          "end": "2002-07",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "Claudinho e Buchecha",
+            "name": "Claudinho e Buchecha",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Claudinho e Bochecha",
+            "name": "Claudinho e Bochecha",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "funk"
+          }
+        ]
+      }
+    ]
+  },
+  "Laufey": {
+    "created": "2026-10-14T21:11:21.763Z",
+    "count": 30,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "21a89505-10a9-4ac0-8388-833bc07b9f86",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Laufey",
+        "sort-name": "Laufey",
+        "gender": "female",
+        "country": "IS",
+        "area": {
+          "id": "48802a32-075a-3805-a183-277c66047693",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Iceland",
+          "sort-name": "Iceland",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "e498a3ef-704c-462e-b144-6e6fc108a6f2",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Reykjavík",
+          "sort-name": "Reykjavík",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00843054746"
+        ],
+        "isnis": [
+          "0000000491518656"
+        ],
+        "life-span": {
+          "begin": "1999-04-23",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Lin, Bing",
+            "name": "林冰",
+            "locale": "zh_Hans_CN",
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Jónsdóttir, Laufey Lín Bing",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Laufey Lín Bing Jónsdóttir",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Loyvey",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "Loyvey",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Loivey",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "Loivey",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Luyfey",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "Luyfey",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Luyvey",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "Luyvey",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Laufey",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Laufey",
+            "locale": "en",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": -1,
+            "name": "pop"
+          },
+          {
+            "count": 1,
+            "name": "jazz"
+          },
+          {
+            "count": 3,
+            "name": "singer-songwriter"
+          },
+          {
+            "count": 1,
+            "name": "bossa nova"
+          },
+          {
+            "count": 1,
+            "name": "vocal jazz"
+          },
+          {
+            "count": 6,
+            "name": "jazz pop"
+          },
+          {
+            "count": 0,
+            "name": "traditional pop"
+          },
+          {
+            "count": 2,
+            "name": "2020s"
+          },
+          {
+            "count": 2,
+            "name": "gen z"
+          }
+        ]
+      }
+    ]
+  },
+  "Cazuza": {
+    "created": "2026-10-14T21:11:24.338Z",
+    "count": 2,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "e554daf4-4ad0-438f-a7f9-832519451fd2",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Cazuza",
+        "sort-name": "Cazuza",
+        "gender": "male",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "end-area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00220824798"
+        ],
+        "life-span": {
+          "begin": "1958-04-04",
+          "end": "1990-07-07",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "Araújo Neto, Agenor de Miranda",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Agenor de Miranda Araújo Neto",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "rock"
+          },
+          {
+            "count": 1,
+            "name": "singer-songwriter"
+          },
+          {
+            "count": 1,
+            "name": "mpb"
+          }
+        ]
+      }
+    ]
+  },
+  "Becky G": {
+    "created": "2026-10-14T21:11:26.414Z",
+    "count": 6364,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "eb90c8b8-d733-4c14-a293-105c3d1ba9b3",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Becky G",
+        "sort-name": "Becky G",
+        "gender": "female",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "c97f3307-fc87-481c-8635-d00a990efb7c",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Inglewood",
+          "sort-name": "Inglewood",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "American singer",
+        "ipis": [
+          "00588837282",
+          "00728844506"
+        ],
+        "isnis": [
+          "0000000399620631"
+        ],
+        "life-span": {
+          "begin": "1997-03-02",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "G., Bicky",
+            "name": "Bicky G.",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Gomez, Rebbeca M",
+            "name": "Rebbeca M Gomez",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Gomez, Rebecca M.",
+            "name": "Rebecca M. Gomez",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Gomez, Rebecca",
+            "name": "Rebecca Gomez",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Gomez, Rebbeca",
+            "name": "Rebbeca Gomez",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Gomez, Rebbeca Marie",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Rebbeca Marie Gomez",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "pop"
+          },
+          {
+            "count": 3,
+            "name": "hip hop"
+          },
+          {
+            "count": 1,
+            "name": "dance-pop"
+          },
+          {
+            "count": 2,
+            "name": "pop rap"
+          },
+          {
+            "count": 3,
+            "name": "latin pop"
+          },
+          {
+            "count": 4,
+            "name": "latin"
+          },
+          {
+            "count": 4,
+            "name": "reggaeton"
+          },
+          {
+            "count": 1,
+            "name": "cumbia"
+          },
+          {
+            "count": 1,
+            "name": "teen pop"
+          },
+          {
+            "count": 1,
+            "name": "contemporary r&b"
+          },
+          {
+            "count": 1,
+            "name": "stage & screen"
+          },
+          {
+            "count": 2,
+            "name": "latin urban"
+          },
+          {
+            "count": 1,
+            "name": "mexican traditions"
+          }
+        ]
+      }
+    ]
+  },
+  "Rosé": {
+    "created": "2026-10-14T21:22:38.468Z",
+    "count": 6264,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "7f233cda-eacb-4235-b681-5f7be343a1a2",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "ROSÉ",
+        "sort-name": "ROSÉ",
+        "gender": "female",
+        "country": "KR",
+        "area": {
+          "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "South Korea",
+          "sort-name": "South Korea",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "b2bc1294-77be-4c7b-af93-9868b83b1f34",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Auckland",
+          "sort-name": "Auckland",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "BLACKPINK",
+        "ipis": [
+          "01094986798"
+        ],
+        "life-span": {
+          "begin": "1997-02-11",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Rose & Bruno Mars",
+            "name": "ROSÉ, Bruno Mars",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Park, Chae-young",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "パク・チェヨン",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ROSÉ of BLACKPINK",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ROSÉ of BLACKPINK",
+            "locale": "en",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Park, Roseanne",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Roseanne Park",
+            "locale": "en",
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Пак Чхэён",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Пак Чхэён",
+            "locale": "ru",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ROSE",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "ROSE",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Park, Chae-young",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "박채영",
+            "locale": "ko",
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Розанна Пак",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Розанна Пак",
+            "locale": "ru",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "朴彩英",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "朴彩英",
+            "locale": "zh",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Розанна Пак",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Розанна Пак",
+            "locale": "uk",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Розе Чийон",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Розе Чийон",
+            "locale": "uk",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "โรเซ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "โรเซ",
+            "locale": "th",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Розэ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Розэ",
+            "locale": "tg",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "రోసే",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "రోసే",
+            "locale": "te",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Розе",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Розе",
+            "locale": "sr",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Розэ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Розэ",
+            "locale": "ru",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ရိုဆဲ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ရိုဆဲ",
+            "locale": "my",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Рөүси",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Рөүси",
+            "locale": "mn",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "റോസ്",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "റോസ്",
+            "locale": "ml",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Çeyang, Pak",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "رزی پارک",
+            "locale": "az_Arab",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ໂລເຊ່",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ໂລເຊ່",
+            "locale": "lo",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "روزے",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "روزے",
+            "locale": "ks",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "រ៉ូសេ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "រ៉ូសេ",
+            "locale": "km",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Розэ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Розэ",
+            "locale": "kk",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "როსე",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "როსე",
+            "locale": "ka",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ROSÉ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ロゼ",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Park, Roseanne",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ロザンヌ・パーク",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Ռոսե",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Ռոսե",
+            "locale": "hy",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "रोज़े",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "रोज़े",
+            "locale": "hi",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "רוזה",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "רוזה",
+            "locale": "he",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "رزی",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "رزی",
+            "locale": "fa",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ރޯޒޭ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ރޯޒޭ",
+            "locale": "dv",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Розé",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Розé",
+            "locale": "bg",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "রোজে",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "রোজে",
+            "locale": "bn",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Çeyang, Pak",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Pak Çeyang",
+            "locale": "az_Latn",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ৰ'জে",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ৰ'জে",
+            "locale": "as",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "روزى",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "روزى",
+            "locale": "ar_EG",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "روزي",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "روزي",
+            "locale": "ar",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Park, Chae Young",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Chae Young Park",
+            "locale": "en",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ROSÉ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "로제",
+            "locale": "ko",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ROSIE",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "ROSIE",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "pop"
+          },
+          {
+            "count": 1,
+            "name": "ballad"
+          },
+          {
+            "count": 3,
+            "name": "k-pop"
+          },
+          {
+            "count": 1,
+            "name": "2020s"
+          },
+          {
+            "count": 1,
+            "name": "gen z"
+          },
+          {
+            "count": 1,
+            "name": "3rd gen k-pop"
+          },
+          {
+            "count": 1,
+            "name": "korean ballad"
+          }
+        ]
+      }
+    ]
+  },
+  "Banda Torpedo": {
+    "created": "2026-10-14T21:22:40.191Z",
+    "count": 1848,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "d44f6a59-36be-444b-8540-bfa68ee3e340",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "Torpedo Torpedo",
+        "sort-name": "Torpedo Torpedo",
+        "area": {
+          "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Wien",
+          "sort-name": "Wien",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "begin": "2020",
+          "ended": null
+        },
+        "tags": [
+          {
+            "count": 1,
+            "name": "rock"
+          },
+          {
+            "count": 1,
+            "name": "psychedelic"
+          },
+          {
+            "count": 1,
+            "name": "stoner rock"
+          },
+          {
+            "count": 1,
+            "name": "blues"
+          },
+          {
+            "count": 1,
+            "name": "doom"
+          },
+          {
+            "count": 1,
+            "name": "metal"
+          },
+          {
+            "count": 1,
+            "name": "psychedelic rock"
+          }
+        ]
+      }
+    ]
+  },
+  "Novos Baianos": {
+    "created": "2026-10-14T21:27:45.941Z",
+    "count": 50,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "7b543eba-995a-4c30-a37e-f8cac424f167",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "Novos Baianos",
+        "sort-name": "Novos Baianos",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "ded88b07-192f-4265-95a6-5085ee12f4ca",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Salvador",
+          "sort-name": "Salvador",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "isnis": [
+          "0000000114843939"
+        ],
+        "life-span": {
+          "begin": "1969",
+          "end": "1979",
+          "ended": true
+        },
+        "aliases": [
+          {
+            "sort-name": "Novos Bahianos",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "Novos Bahianos",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Os Novos Baianos",
+            "name": "Os Novos Baianos",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 3,
+            "name": "mpb"
+          },
+          {
+            "count": 0,
+            "name": "samba"
+          },
+          {
+            "count": 0,
+            "name": "samba-rock"
+          }
+        ]
+      }
+    ]
+  },
+  "Madison Beer": {
+    "created": "2026-10-14T21:27:47.636Z",
+    "count": 1093,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "749ef494-8518-4b49-b685-63d8e728d25c",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Madison Beer",
+        "sort-name": "Beer, Madison",
+        "gender": "female",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "3d1aad97-ab44-4494-a0d5-2a2a66ffdc0b",
+          "type": "County",
+          "type-id": "bcecec27-8bdb-3e00-8254-d948dda502fa",
+          "name": "Nassau County",
+          "sort-name": "Nassau County",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "American singer",
+        "ipis": [
+          "00864339312"
+        ],
+        "isnis": [
+          "0000000502647438"
+        ],
+        "life-span": {
+          "begin": "1999-03-05",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Beer, Madison Elle",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Madison Elle Beer",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "pop"
+          },
+          {
+            "count": 1,
+            "name": "singer-songwriter"
+          },
+          {
+            "count": 1,
+            "name": "indie pop"
+          },
+          {
+            "count": 2,
+            "name": "dance-pop"
+          },
+          {
+            "count": 1,
+            "name": "alternative pop"
+          },
+          {
+            "count": 1,
+            "name": "2020s"
+          },
+          {
+            "count": 1,
+            "name": "gen z"
+          }
+        ]
+      }
+    ]
+  },
+  "Bruno Mars": {
+    "created": "2026-10-14T21:30:54.879Z",
+    "count": 4918,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Bruno Mars",
+        "sort-name": "Mars, Bruno",
+        "gender": "male",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "a1411661-be21-4290-8dc1-50f3d8e3ea67",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Honolulu",
+          "sort-name": "Honolulu",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "US singer",
+        "ipis": [
+          "00477487104",
+          "00583145346",
+          "00583145444"
+        ],
+        "isnis": [
+          "0000000117226071"
+        ],
+        "life-span": {
+          "begin": "1985-10-08",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Bruno Mars",
+            "name": "Bruno Mars",
+            "locale": "zh_Hans_CN",
+            "type": null,
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "브루노 마스",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "브루노 마스",
+            "locale": "ko",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Mars, Bruno",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Bruno Mars",
+            "locale": "en",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Hernandez, Peter Gene",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Peter Gene Hernandez",
+            "locale": "en",
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ブルーノ・マーズ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ブルーノ・マーズ",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "rock"
+          },
+          {
+            "count": 14,
+            "name": "pop"
+          },
+          {
+            "count": 1,
+            "name": "new wave"
+          },
+          {
+            "count": 2,
+            "name": "hip hop"
+          },
+          {
+            "count": 1,
+            "name": "reggae"
+          },
+          {
+            "count": 6,
+            "name": "funk"
+          },
+          {
+            "count": 1,
+            "name": "soul"
+          },
+          {
+            "count": 0,
+            "name": "pop rock"
+          },
+          {
+            "count": 1,
+            "name": "new jack swing"
+          },
+          {
+            "count": 0,
+            "name": "pop soul"
+          },
+          {
+            "count": 5,
+            "name": "r&b"
+          },
+          {
+            "count": 1,
+            "name": "contemporary pop/rock"
+          },
+          {
+            "count": 2,
+            "name": "contemporary r&b"
+          },
+          {
+            "count": 1,
+            "name": "2010s"
+          },
+          {
+            "count": 0,
+            "name": "synth funk"
+          },
+          {
+            "count": 0,
+            "name": "a filk artist"
+          },
+          {
+            "count": 1,
+            "name": "relic inn"
+          },
+          {
+            "count": 1,
+            "name": "music for soccer moms"
+          }
+        ]
+      }
+    ]
   }
 }
