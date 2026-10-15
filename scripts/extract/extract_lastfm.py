@@ -34,7 +34,7 @@ url = "http://ws.audioscrobbler.com/2.0/"
 
 #   --- FIM ---
 
-while(pag_atual<=pag_total):
+while(pag_atual < pag_total or pag_atual == 0):
     pag_atual+=1
     
     parametros = {
@@ -51,10 +51,24 @@ while(pag_atual<=pag_total):
     if response.status_code == 200:
         resposta_json = response.json()
         pag_total = int(resposta_json["recenttracks"]["@attr"]["totalPages"])
-        lista_tracks.extend(resposta_json["recenttracks"]["track"])
-   
+        tracks = resposta_json["recenttracks"]["track"] #variável uxiliar para verificar formato de resposta da API
+
+        if isinstance(tracks, dict):
+            # Uma música: adiciona o dicionário inteiro
+            lista_tracks.append(tracks)
+
+        elif isinstance(tracks, list):
+            # Várias músicas: adiciona cada dicionário da lista
+            lista_tracks.extend(tracks)
+
+        else:
+            raise TypeError(
+                f"Formato inesperado em track: {type(tracks).__name__}"
+            )
 
     time.sleep(0.25)
+   
+
 
 print(len(lista_tracks))
 

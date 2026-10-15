@@ -10,7 +10,7 @@ print("pegando dados do last.fm...\n")
 with open("data/raw/lastfm_scrobbles.json", "r", encoding="utf-8") as arquivo:
     lista_tracks = json.load(arquivo)
     
-
+        
 print("selecionando artistas...\n")
 for faixa in lista_tracks:
     nome_artista = faixa["artist"]["#text"]
@@ -22,6 +22,7 @@ if os.path.exists("data/raw/musicbrainz_data.json"):
     with open("data/raw/musicbrainz_data.json", "r", encoding="utf-8") as arquivo:
         dados_artistas = json.load(arquivo)
 
+    
 else:
     dados_artistas = {}
 

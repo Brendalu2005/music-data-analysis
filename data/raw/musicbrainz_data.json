@@ -30138,5 +30138,150 @@
         ]
       }
     ]
+  },
+  "Oriente": {
+    "created": "2026-10-15T14:31:46.830Z",
+    "count": 43,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "69d485d1-de5d-4284-b089-74b91336b256",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "Oriente",
+        "sort-name": "Oriente",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "76036f8c-1d1c-42eb-8cdf-f7c197751dbf",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Niterói",
+          "sort-name": "Niterói",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Rap group",
+        "life-span": {
+          "begin": "2008",
+          "ended": null
+        }
+      }
+    ]
+  },
+  "Phia": {
+    "created": "2026-10-15T14:31:48.805Z",
+    "count": 676,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "b9fd792f-6ffd-4d56-aa1c-5696196989f9",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Phia",
+        "sort-name": "Phia",
+        "gender": "female",
+        "area": {
+          "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Berlin",
+          "sort-name": "Berlin",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "b4e9352c-8edf-4911-8fa3-e852afa30501",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Melbourne",
+          "sort-name": "Melbourne",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Berlin-based Australian Sophia Exiner",
+        "life-span": {
+          "ended": null
+        }
+      }
+    ]
+  },
+  "Los Hermanos": {
+    "created": "2026-10-15T14:31:50.896Z",
+    "count": 18788,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "557ac15e-7800-44c3-bb62-d4ab34ac1e28",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "Los Hermanos",
+        "sort-name": "Hermanos, Los",
+        "country": "BR",
+        "area": {
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Brazil",
+          "sort-name": "Brazil",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rio de Janeiro",
+          "sort-name": "Rio de Janeiro",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Brazilian rock band",
+        "life-span": {
+          "begin": "1997",
+          "ended": null
+        },
+        "tags": [
+          {
+            "count": 1,
+            "name": "rock"
+          },
+          {
+            "count": 1,
+            "name": "folk"
+          },
+          {
+            "count": 1,
+            "name": "brazilian"
+          },
+          {
+            "count": 1,
+            "name": "folk-rock"
+          },
+          {
+            "count": 1,
+            "name": "brazil"
+          }
+        ]
+      }
+    ]
   }
 }
