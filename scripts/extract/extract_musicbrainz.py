@@ -41,21 +41,19 @@ for artista in lista_artista:
 
     }
 
-
     for tentativa in range(1, MAX_TENTATIVAS + 1):
         response = requests.get(url, params=parametros, headers=headers)
         if response.status_code == 200:
             dados_artistas[artista] = response.json()
             break
         print(f"Falha em {artista} (status {response.status_code}), tentativa {tentativa}/{MAX_TENTATIVAS}")
-        time.sleep(5)
+        time.sleep(5) 
+        #solicita json na API do musicBrainz a cada 5 segundos, para não sobrecarregar e gerar bloqueio de IP e falhas nos dados
 
     if artista not in dados_artistas:
         print(f"Não foi possível coletar {artista}")
 
-    response = requests.get(url, params=parametros, headers=headers)
-    if response.status_code == 200:
-        dados_artistas[artista] = response.json() # musicBrainz retorna um dicionário com infos de varios artistas
+    
 
     with open("data/raw/musicbrainz_data.json", "w", encoding="utf-8") as arquivo:
         json.dump(dados_artistas, arquivo, ensure_ascii=False, indent=2) #se o script for interrompido no meio, os artistas já processados continuam salvos
