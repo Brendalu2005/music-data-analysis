@@ -30283,5 +30283,84 @@
         ]
       }
     ]
+  },
+  "Banda Nova reação": {
+    "created": "2026-10-19T22:08:43.455Z",
+    "count": 5496,
+    "offset": 0,
+    "artists": [
+      {
+        "id": "f69623c5-655a-4041-b367-6713bfdbc642",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "Nova Banda",
+        "sort-name": "Nova Banda",
+        "life-span": {
+          "ended": null
+        }
+      }
+    ]
+  },
+  "Roberta Campos": {
+    "created": null,
+    "count": 1,
+    "offset": 0,
+    "artists": [
+      {
+        "created": "2026-10-19T22:08:46.042Z",
+        "count": 565,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "3cfbe5fb-c638-40dc-b8d8-bb5e5c9c4a1e",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Roberta Campos",
+            "sort-name": "Campos, Roberta",
+            "gender": "female",
+            "country": "BR",
+            "area": {
+              "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Brazil",
+              "sort-name": "Brazil",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "9a660fa5-fba2-4172-86bc-62ce5de96250",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "Minas Gerais",
+              "sort-name": "Minas Gerais",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "begin": "1977-12-29",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Campos Martins, Roberta Cristina",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Roberta Cristina Campos Martins",
+                "locale": "pt",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 }

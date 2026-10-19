@@ -1,6 +1,906 @@
 [
   {
     "artist": {
+      "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+      "#text": "Troye Sivan"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b506dbb82af06edd5423de24fae5a77e.png"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+      "#text": "She’s the Best"
+    },
+    "name": "emBARRAssingly",
+    "url": "https://www.last.fm/music/Troye+Sivan/_/emBARRAssingly",
+    "date": {
+      "uts": "1792429047",
+      "#text": "19 Oct 2026, 16:57"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+      "#text": "Troye Sivan"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b506dbb82af06edd5423de24fae5a77e.png"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+      "#text": "She’s the Best"
+    },
+    "name": "Cowboy",
+    "url": "https://www.last.fm/music/Troye+Sivan/_/Cowboy",
+    "date": {
+      "uts": "1792428834",
+      "#text": "19 Oct 2026, 16:53"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "396a9525-0994-4542-b480-c4587feeb476",
+      "#text": "Tinashe"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7e972d2f75f2e0fc2706a0a4ec083941.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7e972d2f75f2e0fc2706a0a4ec083941.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7e972d2f75f2e0fc2706a0a4ec083941.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7e972d2f75f2e0fc2706a0a4ec083941.png"
+      }
+    ],
+    "mbid": "0981307b-b240-4b0b-adc3-3a95a1a298bd",
+    "album": {
+      "mbid": "e26594c9-3a23-45f1-b7cb-af39240c482e",
+      "#text": "POPSTAR"
+    },
+    "name": "POPSTAR",
+    "url": "https://www.last.fm/music/Tinashe/_/POPSTAR",
+    "date": {
+      "uts": "1792355820",
+      "#text": "18 Oct 2026, 20:37"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "adef6e0a-0610-45df-8a17-55aa92a47c15",
+      "#text": "Mollie Elizabeth"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/c8032595698b76a7c93b19c2aaa88547.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/c8032595698b76a7c93b19c2aaa88547.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/c8032595698b76a7c93b19c2aaa88547.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c8032595698b76a7c93b19c2aaa88547.jpg"
+      }
+    ],
+    "mbid": "a75e8eea-f6b1-4a09-8107-ea47eaf2a6dd",
+    "album": {
+      "mbid": "ca83d273-f02e-4b8c-834b-f5470351b0ba",
+      "#text": "Run Rabbit"
+    },
+    "name": "Run Rabbit",
+    "url": "https://www.last.fm/music/Mollie+Elizabeth/_/Run+Rabbit",
+    "date": {
+      "uts": "1792351663",
+      "#text": "18 Oct 2026, 19:27"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "396a9525-0994-4542-b480-c4587feeb476",
+      "#text": "Tinashe"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7e972d2f75f2e0fc2706a0a4ec083941.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7e972d2f75f2e0fc2706a0a4ec083941.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7e972d2f75f2e0fc2706a0a4ec083941.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7e972d2f75f2e0fc2706a0a4ec083941.png"
+      }
+    ],
+    "mbid": "48cf2e37-8660-4b1e-ae59-1616cbbd2327",
+    "album": {
+      "mbid": "e26594c9-3a23-45f1-b7cb-af39240c482e",
+      "#text": "POPSTAR"
+    },
+    "name": "I’d Rather Be Alone",
+    "url": "https://www.last.fm/music/Tinashe/_/I%E2%80%99d+Rather+Be+Alone",
+    "date": {
+      "uts": "1792351468",
+      "#text": "18 Oct 2026, 19:24"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+      "#text": "Troye Sivan"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b506dbb82af06edd5423de24fae5a77e.png"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+      "#text": "She’s the Best"
+    },
+    "name": "Canada Dry",
+    "url": "https://www.last.fm/music/Troye+Sivan/_/Canada+Dry",
+    "date": {
+      "uts": "1792351266",
+      "#text": "18 Oct 2026, 19:21"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+      "#text": "Troye Sivan"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b506dbb82af06edd5423de24fae5a77e.png"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+      "#text": "She’s the Best"
+    },
+    "name": "Cowboy",
+    "url": "https://www.last.fm/music/Troye+Sivan/_/Cowboy",
+    "date": {
+      "uts": "1792351062",
+      "#text": "18 Oct 2026, 19:17"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      "#text": "Olivia Rodrigo"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/06ccc3cc0cfe1e4ca42a26ac00d97a7b.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/06ccc3cc0cfe1e4ca42a26ac00d97a7b.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/06ccc3cc0cfe1e4ca42a26ac00d97a7b.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/06ccc3cc0cfe1e4ca42a26ac00d97a7b.jpg"
+      }
+    ],
+    "mbid": "b954fae4-e690-4d76-9c71-2d96a2c557c7",
+    "album": {
+      "mbid": "e142765a-1fb3-4980-90b5-2b39044eb01f",
+      "#text": "you seem pretty sad for a girl so in love"
+    },
+    "name": "honeybee",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/honeybee",
+    "date": {
+      "uts": "1792350834",
+      "#text": "18 Oct 2026, 19:13"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      "#text": "Olivia Rodrigo"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/06ccc3cc0cfe1e4ca42a26ac00d97a7b.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/06ccc3cc0cfe1e4ca42a26ac00d97a7b.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/06ccc3cc0cfe1e4ca42a26ac00d97a7b.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/06ccc3cc0cfe1e4ca42a26ac00d97a7b.jpg"
+      }
+    ],
+    "mbid": "6f0d85f5-dbe0-4c53-820c-dc23402af982",
+    "album": {
+      "mbid": "e142765a-1fb3-4980-90b5-2b39044eb01f",
+      "#text": "you seem pretty sad for a girl so in love"
+    },
+    "name": "stupid song",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song",
+    "date": {
+      "uts": "1792350625",
+      "#text": "18 Oct 2026, 19:10"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+      "#text": "Troye Sivan"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b506dbb82af06edd5423de24fae5a77e.png"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+      "#text": "She’s the Best"
+    },
+    "name": "Canada Dry",
+    "url": "https://www.last.fm/music/Troye+Sivan/_/Canada+Dry",
+    "date": {
+      "uts": "1792350372",
+      "#text": "18 Oct 2026, 19:06"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+      "#text": "Troye Sivan"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b506dbb82af06edd5423de24fae5a77e.png"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+      "#text": "She’s the Best"
+    },
+    "name": "Cowboy",
+    "url": "https://www.last.fm/music/Troye+Sivan/_/Cowboy",
+    "date": {
+      "uts": "1792294699",
+      "#text": "18 Oct 2026, 03:38"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+      "#text": "Troye Sivan"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b506dbb82af06edd5423de24fae5a77e.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b506dbb82af06edd5423de24fae5a77e.png"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+      "#text": "She’s the Best"
+    },
+    "name": "Canada Dry",
+    "url": "https://www.last.fm/music/Troye+Sivan/_/Canada+Dry",
+    "date": {
+      "uts": "1792189749",
+      "#text": "16 Oct 2026, 22:29"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
+      "#text": "Marina Sena"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/998560a2b5080484f07b3fd25f3d8fe9.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/998560a2b5080484f07b3fd25f3d8fe9.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/998560a2b5080484f07b3fd25f3d8fe9.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/998560a2b5080484f07b3fd25f3d8fe9.jpg"
+      }
+    ],
+    "mbid": "37db0d8f-1d5b-4dde-85f2-9df64d1173f0",
+    "album": {
+      "mbid": "a490743f-ed94-4d5f-976d-48612d25c80d",
+      "#text": "Coisas Naturais"
+    },
+    "name": "Desmitificar",
+    "url": "https://www.last.fm/music/Marina+Sena/_/Desmitificar",
+    "date": {
+      "uts": "1792169500",
+      "#text": "16 Oct 2026, 16:51"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "3cfbe5fb-c638-40dc-b8d8-bb5e5c9c4a1e",
+      "#text": "Roberta Campos"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/23a92f9daf50bd130011b4e9e74898dd.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/23a92f9daf50bd130011b4e9e74898dd.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/23a92f9daf50bd130011b4e9e74898dd.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/23a92f9daf50bd130011b4e9e74898dd.jpg"
+      }
+    ],
+    "mbid": "8b2c1561-bb26-4648-b6e4-0401d8896911",
+    "album": {
+      "mbid": "5aed56a0-e789-4d43-ae7d-ea91705f298d",
+      "#text": "Varrendo A Lua"
+    },
+    "name": "De Janeiro a Janeiro",
+    "url": "https://www.last.fm/music/Roberta+Campos/_/De+Janeiro+a+Janeiro",
+    "date": {
+      "uts": "1792165785",
+      "#text": "16 Oct 2026, 15:49"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
+      "#text": "Marina Sena"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/998560a2b5080484f07b3fd25f3d8fe9.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/998560a2b5080484f07b3fd25f3d8fe9.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/998560a2b5080484f07b3fd25f3d8fe9.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/998560a2b5080484f07b3fd25f3d8fe9.jpg"
+      }
+    ],
+    "mbid": "96e8544b-f820-413e-a3d9-1bc39ac61498",
+    "album": {
+      "mbid": "a490743f-ed94-4d5f-976d-48612d25c80d",
+      "#text": "Coisas Naturais"
+    },
+    "name": "Lua Cheia",
+    "url": "https://www.last.fm/music/Marina+Sena/_/Lua+Cheia",
+    "date": {
+      "uts": "1792159741",
+      "#text": "16 Oct 2026, 14:09"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "",
+      "#text": "Banda Nova reação"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/1a32ab76c6b81223dfca418aec2a2819.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/1a32ab76c6b81223dfca418aec2a2819.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/1a32ab76c6b81223dfca418aec2a2819.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1a32ab76c6b81223dfca418aec2a2819.jpg"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "",
+      "#text": "Nada Vai Adiantar"
+    },
+    "name": "Nada Vai Adiantar",
+    "url": "https://www.last.fm/music/Banda+Nova+rea%C3%A7%C3%A3o/_/Nada+Vai+Adiantar",
+    "date": {
+      "uts": "1792159374",
+      "#text": "16 Oct 2026, 14:02"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "6797c795-08b4-4da2-a4d8-95a554c2a91c",
+      "#text": "Jão"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7ae1707bbeb4d31692d2dd8a140e7d03.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7ae1707bbeb4d31692d2dd8a140e7d03.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7ae1707bbeb4d31692d2dd8a140e7d03.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7ae1707bbeb4d31692d2dd8a140e7d03.jpg"
+      }
+    ],
+    "mbid": "e395f58c-b5fc-4efa-b7ca-ef3ddd6b130c",
+    "album": {
+      "mbid": "37fbf88c-4e1b-4263-b3e1-efedd30f2e89",
+      "#text": "SUPERNOVA"
+    },
+    "name": "Carnaval",
+    "url": "https://www.last.fm/music/J%C3%A3o/_/Carnaval",
+    "date": {
+      "uts": "1792159273",
+      "#text": "16 Oct 2026, 14:01"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "3a5d1cc7-627e-48ea-aba3-fdd20d782c33",
+      "#text": "Chico Buarque"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/c0d9052268d2f1231da89a09205c182a.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/c0d9052268d2f1231da89a09205c182a.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/c0d9052268d2f1231da89a09205c182a.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c0d9052268d2f1231da89a09205c182a.jpg"
+      }
+    ],
+    "mbid": "0a966f47-5a9c-3007-9b8f-0cd8ddf7eafd",
+    "album": {
+      "mbid": "8a4311c9-bdcb-3c31-8b4a-2004d5da4d75",
+      "#text": "Sinal Fechado"
+    },
+    "name": "Acorda Amor",
+    "url": "https://www.last.fm/music/Chico+Buarque/_/Acorda+Amor",
+    "date": {
+      "uts": "1792159131",
+      "#text": "16 Oct 2026, 13:58"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "d606b860-cc03-4959-a3fd-3a24bccf2560",
+      "#text": "Anitta"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/af8083f9f256d43198b99a1744bd1d58.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/af8083f9f256d43198b99a1744bd1d58.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/af8083f9f256d43198b99a1744bd1d58.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/af8083f9f256d43198b99a1744bd1d58.png"
+      }
+    ],
+    "mbid": "22129381-3c54-4eba-8114-1cafd82a7666",
+    "album": {
+      "mbid": "c52894dd-2db2-412a-a665-e3d898b9135a",
+      "#text": "Ensaios da Anitta"
+    },
+    "name": "Só Pra Tu",
+    "url": "https://www.last.fm/music/Anitta/_/S%C3%B3+Pra+Tu",
+    "date": {
+      "uts": "1792159126",
+      "#text": "16 Oct 2026, 13:58"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      "#text": "Olivia Rodrigo"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/be38689219eb00eade30bc3c319994b5.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/be38689219eb00eade30bc3c319994b5.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/be38689219eb00eade30bc3c319994b5.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/be38689219eb00eade30bc3c319994b5.jpg"
+      }
+    ],
+    "mbid": "aa68091b-f694-4dd6-8518-7e34fca1991e",
+    "album": {
+      "mbid": "",
+      "#text": "expectations (feat. Chappell Roan)"
+    },
+    "name": "expectations",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/expectations",
+    "date": {
+      "uts": "1792120187",
+      "#text": "16 Oct 2026, 03:09"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "",
+      "#text": "Olivia Rodrigo"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/be38689219eb00eade30bc3c319994b5.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/be38689219eb00eade30bc3c319994b5.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/be38689219eb00eade30bc3c319994b5.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/be38689219eb00eade30bc3c319994b5.jpg"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "",
+      "#text": "expectations (feat. Chappell Roan)"
+    },
+    "name": "expectations (feat. Chappell Roan)",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/expectations+(feat.+Chappell+Roan)",
+    "date": {
+      "uts": "1792111978",
+      "#text": "16 Oct 2026, 00:52"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
+      "#text": "Marina Sena"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/998560a2b5080484f07b3fd25f3d8fe9.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/998560a2b5080484f07b3fd25f3d8fe9.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/998560a2b5080484f07b3fd25f3d8fe9.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/998560a2b5080484f07b3fd25f3d8fe9.jpg"
+      }
+    ],
+    "mbid": "37db0d8f-1d5b-4dde-85f2-9df64d1173f0",
+    "album": {
+      "mbid": "a490743f-ed94-4d5f-976d-48612d25c80d",
+      "#text": "Coisas Naturais"
+    },
+    "name": "Desmitificar",
+    "url": "https://www.last.fm/music/Marina+Sena/_/Desmitificar",
+    "date": {
+      "uts": "1792108372",
+      "#text": "15 Oct 2026, 23:52"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "7df5de77-f197-4326-805e-2b2a128feb25",
+      "#text": "Fafá de Belém"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ce4def7d1bc1c32411c808143112bc4e.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ce4def7d1bc1c32411c808143112bc4e.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ce4def7d1bc1c32411c808143112bc4e.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ce4def7d1bc1c32411c808143112bc4e.png"
+      }
+    ],
+    "mbid": "fa6f11d6-30a4-357e-bd96-75fcbc44aae0",
+    "album": {
+      "mbid": "fd512782-2d99-48ba-89ee-acc9cc0fc33d",
+      "#text": "Pássaro Sonhador"
+    },
+    "name": "Vermelho",
+    "url": "https://www.last.fm/music/Faf%C3%A1+de+Bel%C3%A9m/_/Vermelho",
+    "date": {
+      "uts": "1792108144",
+      "#text": "15 Oct 2026, 23:49"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
+      "#text": "Tate McRae"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a4dfdd7409ef99e80539d993f07e37d0.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a4dfdd7409ef99e80539d993f07e37d0.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a4dfdd7409ef99e80539d993f07e37d0.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a4dfdd7409ef99e80539d993f07e37d0.png"
+      }
+    ],
+    "mbid": "e92800f0-04fa-41aa-bf37-aa0f6fc1ee07",
+    "album": {
+      "mbid": "3a2726ae-34c8-4f49-a50a-c9a96cf762c1",
+      "#text": "SO CLOSE TO WHAT??? (deluxe)"
+    },
+    "name": "TRYING ON SHOES",
+    "url": "https://www.last.fm/music/Tate+McRae/_/TRYING+ON+SHOES",
+    "date": {
+      "uts": "1792085066",
+      "#text": "15 Oct 2026, 17:24"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "cf6b70f6-2616-481c-912c-0263cabfc974",
+      "#text": "Gilberto Gil"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/51a1bd9c275e681394d99e9546d003bb.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/51a1bd9c275e681394d99e9546d003bb.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/51a1bd9c275e681394d99e9546d003bb.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/51a1bd9c275e681394d99e9546d003bb.jpg"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "3a7a9915-07b0-4d56-b29a-002d5fd6a9f5",
+      "#text": "Um Banda Um"
+    },
+    "name": "Deixar Você - primeira versão",
+    "url": "https://www.last.fm/music/Gilberto+Gil/_/Deixar+Voc%C3%AA+-+primeira+vers%C3%A3o",
+    "date": {
+      "uts": "1792074573",
+      "#text": "15 Oct 2026, 14:29"
+    }
+  },
+  {
+    "artist": {
       "mbid": "15741996-1794-42a8-a2c7-1ce3e32d0d75",
       "#text": "BaianaSystem"
     },
@@ -1363,6 +2263,42 @@
     "name": "serena joy",
     "url": "https://www.last.fm/music/Olivia+Rodrigo/_/serena+joy",
     "date": {
+      "uts": "1791974545",
+      "#text": "14 Oct 2026, 10:42"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      "#text": "Olivia Rodrigo"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/647062f53aa438e61ddcec4b8f1142fd.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/647062f53aa438e61ddcec4b8f1142fd.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/647062f53aa438e61ddcec4b8f1142fd.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/647062f53aa438e61ddcec4b8f1142fd.jpg"
+      }
+    ],
+    "mbid": "34ed29b4-7fb9-4824-a9a1-e784ae3afc93",
+    "album": {
+      "mbid": "7d27faa6-1d96-46a4-80a3-32dfcc2e7176",
+      "#text": "Serena Joy"
+    },
+    "name": "serena joy",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/serena+joy",
+    "date": {
       "uts": "1791974359",
       "#text": "14 Oct 2026, 10:39"
     }
@@ -2255,7 +3191,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/832ade6a35ec2a224ea9a5be326b5de4.jpg"
       }
     ],
-    "mbid": "6c337c9d-8637-4720-9af2-d914019149b8",
+    "mbid": "",
     "album": {
       "mbid": "3a12923d-97cd-4e87-8cfd-fb67be970974",
       "#text": "The Slow Rush"
@@ -3695,7 +4631,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9669591438fa40869420f91c617de999.jpg"
       }
     ],
-    "mbid": "a7f6e663-e6a9-4eed-b19a-3ead7f59c229",
+    "mbid": "",
     "album": {
       "mbid": "0640e31e-e4cb-32f4-be23-e11e4aef8c1b",
       "#text": "Arrival"
@@ -4057,7 +4993,7 @@
     ],
     "mbid": "04b2b3fe-fbfb-4c90-aa83-d2c83557fcee",
     "album": {
-      "mbid": "",
+      "mbid": "f22190a3-49b0-47e0-a0c3-6bcd560d5f58",
       "#text": "FALLEN ANGEL"
     },
     "name": "Fallen Angel",
@@ -4508,19 +5444,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a46558fdd22e44e222cc26a90096aa.jpg"
       }
     ],
     "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
@@ -4991,7 +5927,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4b0ed289f604d7fe09080da4f05e1ead.jpg"
       }
     ],
-    "mbid": "d672fe10-182c-4a17-a510-9f45b4a1f82f",
+    "mbid": "",
     "album": {
       "mbid": "0297e26e-de26-4c25-acd9-f72b55eaf271",
       "#text": "The Romantic"
@@ -5444,19 +6380,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a46558fdd22e44e222cc26a90096aa.jpg"
       }
     ],
     "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
@@ -5840,19 +6776,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a46558fdd22e44e222cc26a90096aa.jpg"
       }
     ],
     "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
@@ -6164,19 +7100,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a46558fdd22e44e222cc26a90096aa.jpg"
       }
     ],
     "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
@@ -6200,19 +7136,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       }
     ],
     "mbid": "43964a41-f4c4-48c3-bf6f-2ee14b2e6c30",
@@ -8252,19 +9188,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a46558fdd22e44e222cc26a90096aa.jpg"
       }
     ],
     "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
@@ -8504,19 +9440,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       }
     ],
     "mbid": "43964a41-f4c4-48c3-bf6f-2ee14b2e6c30",
@@ -10463,7 +11399,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/de2080e7f6349212ede849c31b266a8f.jpg"
       }
     ],
-    "mbid": "8a583480-560f-3f19-aa17-98d3f0081a86",
+    "mbid": "",
     "album": {
       "mbid": "0eff1e8e-1046-4062-a7bd-56adf227d103",
       "#text": "Sambista Perfeito"
@@ -11507,7 +12443,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fd84481054af43f993d4337e64df8378.png"
       }
     ],
-    "mbid": "055bb59a-fbff-3132-a781-5599d776645f",
+    "mbid": "",
     "album": {
       "mbid": "04ac89f9-44cb-4361-9476-abbbdf750598",
       "#text": "No Compasso Do Criador"
@@ -13451,7 +14387,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fd85216c475a92d838ed49d8a7f431db.png"
       }
     ],
-    "mbid": "c1756893-a3af-3cd8-9618-c585477b28a1",
+    "mbid": "",
     "album": {
       "mbid": "3b71efac-ebc3-4172-bc0c-7a0a44c581d4",
       "#text": "Exagerado"
@@ -15071,7 +16007,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fd84481054af43f993d4337e64df8378.png"
       }
     ],
-    "mbid": "055bb59a-fbff-3132-a781-5599d776645f",
+    "mbid": "",
     "album": {
       "mbid": "04ac89f9-44cb-4361-9476-abbbdf750598",
       "#text": "No Compasso Do Criador"
@@ -16280,19 +17216,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a46558fdd22e44e222cc26a90096aa.jpg"
       }
     ],
     "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
@@ -16568,19 +17504,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       }
     ],
     "mbid": "43964a41-f4c4-48c3-bf6f-2ee14b2e6c30",
@@ -19211,7 +20147,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b266469599e06ea2ab8ae33342795fd4.png"
       }
     ],
-    "mbid": "0c846a8e-debd-4a63-bb93-6c57f5178b45",
+    "mbid": "e507bf7e-d0c6-4f9e-96eb-425a047b98fe",
     "album": {
       "mbid": "90e614d9-ed19-41fc-9a90-e05026b6ce90",
       "#text": "GUTS (spilled)"
@@ -20255,7 +21191,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9da8add22ca31771a440d2a6f7615f6d.jpg"
       }
     ],
-    "mbid": "143f1c88-f47f-4f37-b25d-614c74269dea",
+    "mbid": "",
     "album": {
       "mbid": "0151befb-0adf-4b0c-a142-4af36c3c3cd0",
       "#text": "SOUR"
@@ -20384,19 +21320,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b7021152ab453d63b54742f35bc123e6.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ad4c37e923227e49ce3b8b3182b745a3.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b7021152ab453d63b54742f35bc123e6.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ad4c37e923227e49ce3b8b3182b745a3.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b7021152ab453d63b54742f35bc123e6.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ad4c37e923227e49ce3b8b3182b745a3.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b7021152ab453d63b54742f35bc123e6.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ad4c37e923227e49ce3b8b3182b745a3.jpg"
       }
     ],
     "mbid": "",
@@ -20723,7 +21659,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9da8add22ca31771a440d2a6f7615f6d.jpg"
       }
     ],
-    "mbid": "143f1c88-f47f-4f37-b25d-614c74269dea",
+    "mbid": "",
     "album": {
       "mbid": "0151befb-0adf-4b0c-a142-4af36c3c3cd0",
       "#text": "SOUR"
@@ -21407,7 +22343,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b266469599e06ea2ab8ae33342795fd4.png"
       }
     ],
-    "mbid": "0c846a8e-debd-4a63-bb93-6c57f5178b45",
+    "mbid": "e507bf7e-d0c6-4f9e-96eb-425a047b98fe",
     "album": {
       "mbid": "90e614d9-ed19-41fc-9a90-e05026b6ce90",
       "#text": "GUTS (spilled)"
@@ -21623,7 +22559,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9da8add22ca31771a440d2a6f7615f6d.jpg"
       }
     ],
-    "mbid": "143f1c88-f47f-4f37-b25d-614c74269dea",
+    "mbid": "",
     "album": {
       "mbid": "0151befb-0adf-4b0c-a142-4af36c3c3cd0",
       "#text": "SOUR"
@@ -21947,7 +22883,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d0c78dc3a80e2e45ac4972089360a051.jpg"
       }
     ],
-    "mbid": "d6d46578-1557-4303-968d-35c8227861f0",
+    "mbid": "eca6e837-39fd-481e-869d-42ffc893e942",
     "album": {
       "mbid": "0c3590d5-97a9-471d-9e6c-7519e086fec2",
       "#text": "Midnight Sun"
@@ -22523,7 +23459,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9da8add22ca31771a440d2a6f7615f6d.jpg"
       }
     ],
-    "mbid": "aa9a198c-9e63-4544-97c2-c31fe2ceeb69",
+    "mbid": "",
     "album": {
       "mbid": "0151befb-0adf-4b0c-a142-4af36c3c3cd0",
       "#text": "SOUR"
@@ -22559,7 +23495,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9da8add22ca31771a440d2a6f7615f6d.jpg"
       }
     ],
-    "mbid": "e11eefce-4eca-4e0c-b1b7-f9cf65263194",
+    "mbid": "",
     "album": {
       "mbid": "0151befb-0adf-4b0c-a142-4af36c3c3cd0",
       "#text": "SOUR"
@@ -22775,7 +23711,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9da8add22ca31771a440d2a6f7615f6d.jpg"
       }
     ],
-    "mbid": "143f1c88-f47f-4f37-b25d-614c74269dea",
+    "mbid": "",
     "album": {
       "mbid": "0151befb-0adf-4b0c-a142-4af36c3c3cd0",
       "#text": "SOUR"
@@ -23999,7 +24935,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a366e8cc3fb5adb4b75d138652fa721a.png"
       }
     ],
-    "mbid": "2f6b1016-d000-4870-b4de-2e98ad1f3a77",
+    "mbid": "",
     "album": {
       "mbid": "",
       "#text": "...Baby One More Time (Digital Deluxe Version)"
@@ -24056,19 +24992,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/f3aa2afa43dc94eb79562be7a23ce876.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/02fee15b4218b9b02ca00e9181ef57f9.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/f3aa2afa43dc94eb79562be7a23ce876.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/02fee15b4218b9b02ca00e9181ef57f9.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/f3aa2afa43dc94eb79562be7a23ce876.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/02fee15b4218b9b02ca00e9181ef57f9.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f3aa2afa43dc94eb79562be7a23ce876.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/02fee15b4218b9b02ca00e9181ef57f9.jpg"
       }
     ],
     "mbid": "",
@@ -24488,19 +25424,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       }
     ],
     "mbid": "43964a41-f4c4-48c3-bf6f-2ee14b2e6c30",
@@ -26504,19 +27440,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       }
     ],
     "mbid": "43964a41-f4c4-48c3-bf6f-2ee14b2e6c30",
@@ -27692,19 +28628,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       }
     ],
     "mbid": "43964a41-f4c4-48c3-bf6f-2ee14b2e6c30",
@@ -31040,19 +31976,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a46558fdd22e44e222cc26a90096aa.jpg"
       }
     ],
     "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
@@ -31688,19 +32624,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a46558fdd22e44e222cc26a90096aa.jpg"
       }
     ],
     "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
@@ -31868,19 +32804,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a46558fdd22e44e222cc26a90096aa.jpg"
       }
     ],
     "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
@@ -32660,19 +33596,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a46558fdd22e44e222cc26a90096aa.jpg"
       }
     ],
     "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
@@ -33344,19 +34280,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       }
     ],
     "mbid": "43964a41-f4c4-48c3-bf6f-2ee14b2e6c30",
@@ -33452,19 +34388,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       }
     ],
     "mbid": "43964a41-f4c4-48c3-bf6f-2ee14b2e6c30",
@@ -33668,19 +34604,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ed70a6486529400999ef6375ed447ff5.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ed70a6486529400999ef6375ed447ff5.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ed70a6486529400999ef6375ed447ff5.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ed70a6486529400999ef6375ed447ff5.png"
       }
     ],
     "mbid": "",
@@ -33755,7 +34691,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9669591438fa40869420f91c617de999.jpg"
       }
     ],
-    "mbid": "a7f6e663-e6a9-4eed-b19a-3ead7f59c229",
+    "mbid": "",
     "album": {
       "mbid": "0640e31e-e4cb-32f4-be23-e11e4aef8c1b",
       "#text": "Arrival"
@@ -34244,19 +35180,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       }
     ],
     "mbid": "43964a41-f4c4-48c3-bf6f-2ee14b2e6c30",
@@ -34568,19 +35504,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       }
     ],
     "mbid": "43964a41-f4c4-48c3-bf6f-2ee14b2e6c30",
@@ -35504,19 +36440,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/94eb7ed34ffc5d4aa54da620e88d5d2f.gif"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/813ea09fa9ab5dbdca1a3ce878a9cd1b.png"
       }
     ],
     "mbid": "43964a41-f4c4-48c3-bf6f-2ee14b2e6c30",
@@ -38312,19 +39248,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ef9603babba69e294366d26d7875c981.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/060c6a42b7e88986a9647de4d55ae477.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ef9603babba69e294366d26d7875c981.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/060c6a42b7e88986a9647de4d55ae477.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ef9603babba69e294366d26d7875c981.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/060c6a42b7e88986a9647de4d55ae477.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef9603babba69e294366d26d7875c981.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/060c6a42b7e88986a9647de4d55ae477.png"
       }
     ],
     "mbid": "01e51db5-bd00-447d-bf6b-bc5170ce4222",
@@ -38528,19 +39464,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ef9603babba69e294366d26d7875c981.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/060c6a42b7e88986a9647de4d55ae477.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ef9603babba69e294366d26d7875c981.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/060c6a42b7e88986a9647de4d55ae477.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ef9603babba69e294366d26d7875c981.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/060c6a42b7e88986a9647de4d55ae477.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef9603babba69e294366d26d7875c981.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/060c6a42b7e88986a9647de4d55ae477.png"
       }
     ],
     "mbid": "1524188c-0102-4a1a-985e-cf0a18036ca3",
@@ -38708,19 +39644,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ef9603babba69e294366d26d7875c981.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/060c6a42b7e88986a9647de4d55ae477.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ef9603babba69e294366d26d7875c981.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/060c6a42b7e88986a9647de4d55ae477.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ef9603babba69e294366d26d7875c981.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/060c6a42b7e88986a9647de4d55ae477.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef9603babba69e294366d26d7875c981.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/060c6a42b7e88986a9647de4d55ae477.png"
       }
     ],
     "mbid": "dd88eac7-89f3-455d-9a2b-64327522613d",
@@ -39212,19 +40148,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a46558fdd22e44e222cc26a90096aa.jpg"
       }
     ],
     "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
@@ -40544,19 +41480,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a46558fdd22e44e222cc26a90096aa.jpg"
       }
     ],
     "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
@@ -41279,7 +42215,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d0c78dc3a80e2e45ac4972089360a051.jpg"
       }
     ],
-    "mbid": "d6d46578-1557-4303-968d-35c8227861f0",
+    "mbid": "eca6e837-39fd-481e-869d-42ffc893e942",
     "album": {
       "mbid": "0c3590d5-97a9-471d-9e6c-7519e086fec2",
       "#text": "Midnight Sun"
@@ -41408,19 +42344,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/f854b2be04f249b02da242387172050f.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/3ea99c6f727d16a8c36657bf7a9c9337.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/f854b2be04f249b02da242387172050f.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/3ea99c6f727d16a8c36657bf7a9c9337.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/f854b2be04f249b02da242387172050f.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/3ea99c6f727d16a8c36657bf7a9c9337.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f854b2be04f249b02da242387172050f.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3ea99c6f727d16a8c36657bf7a9c9337.jpg"
       }
     ],
     "mbid": "3dc25220-54c7-44bd-890f-b84b8b85c051",
@@ -41531,7 +42467,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9da8add22ca31771a440d2a6f7615f6d.jpg"
       }
     ],
-    "mbid": "143f1c88-f47f-4f37-b25d-614c74269dea",
+    "mbid": "",
     "album": {
       "mbid": "0151befb-0adf-4b0c-a142-4af36c3c3cd0",
       "#text": "SOUR"
@@ -43892,19 +44828,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/08a46558fdd22e44e222cc26a90096aa.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7fadc06d6b0ec4fc41e26a5a5182192a.jpg"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a46558fdd22e44e222cc26a90096aa.jpg"
       }
     ],
     "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
@@ -46823,7 +47759,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fd84481054af43f993d4337e64df8378.png"
       }
     ],
-    "mbid": "055bb59a-fbff-3132-a781-5599d776645f",
+    "mbid": "",
     "album": {
       "mbid": "04ac89f9-44cb-4361-9476-abbbdf750598",
       "#text": "No Compasso Do Criador"
@@ -46967,7 +47903,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fd84481054af43f993d4337e64df8378.png"
       }
     ],
-    "mbid": "055bb59a-fbff-3132-a781-5599d776645f",
+    "mbid": "",
     "album": {
       "mbid": "04ac89f9-44cb-4361-9476-abbbdf750598",
       "#text": "No Compasso Do Criador"
@@ -47437,7 +48373,7 @@
     ],
     "mbid": "04b2b3fe-fbfb-4c90-aa83-d2c83557fcee",
     "album": {
-      "mbid": "",
+      "mbid": "f22190a3-49b0-47e0-a0c3-6bcd560d5f58",
       "#text": "FALLEN ANGEL"
     },
     "name": "Fallen Angel",
@@ -48371,7 +49307,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/efbd28cada9ae700d7e3732c7edfcc8b.png"
       }
     ],
-    "mbid": "08f9b27f-90df-4771-8fe7-b1b433800be7",
+    "mbid": "",
     "album": {
       "mbid": "4b58079a-2575-4fdb-a9cc-9c5c8dcf9ddc",
       "#text": "Teenage Dream: The Complete Confection"
@@ -48983,7 +49919,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/38479c05afc2a5c6e2e621b6c3ac7de5.png"
       }
     ],
-    "mbid": "",
+    "mbid": "04dc73ef-2d96-40fc-a798-e7253298e49c",
     "album": {
       "mbid": "02769f4d-ee78-3680-aa79-67f3a821c931",
       "#text": "Pablo Honey"
@@ -49019,7 +49955,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/38479c05afc2a5c6e2e621b6c3ac7de5.png"
       }
     ],
-    "mbid": "",
+    "mbid": "04dc73ef-2d96-40fc-a798-e7253298e49c",
     "album": {
       "mbid": "02769f4d-ee78-3680-aa79-67f3a821c931",
       "#text": "Pablo Honey"
@@ -49271,7 +50207,7 @@
         "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/940351f3cd3404d81c6dfe62ffb55c6c.png"
       }
     ],
-    "mbid": "b2df73b1-8ecd-4d4b-afe7-926f067de5af",
+    "mbid": "",
     "album": {
       "mbid": "0c2baed2-34ff-388d-90ea-8d6974f9713d",
       "#text": "Confessions on a Dance Floor"
