@@ -13,12 +13,29 @@ def rodar_script(caminho):
 
 def rodar_notebook(caminho):
     print(f"Rodando {caminho}...")
-    diretorio = os.path.dirname(caminho)
+
+    # Pasta onde está run_pipeline.py
+    raiz = os.path.dirname(os.path.abspath(__file__))
+
+    entrada = os.path.join(raiz, caminho)
+    diretorio = os.path.dirname(entrada)
+
+    # Salva os notebooks executados separadamente.
+    pasta_saida = os.path.join(raiz, "notebooks", "executados")
+    os.makedirs(pasta_saida, exist_ok=True)
+
+    saida = os.path.join(
+        pasta_saida,
+        os.path.basename(entrada)
+    )
+
     resultado = subprocess.run([
         sys.executable, "-m", "papermill",
-        caminho, caminho,
+        entrada,
+        saida,
         "--cwd", diretorio
     ])
+
     if resultado.returncode != 0:
         print(f"Erro ao rodar {caminho}. Parando a pipeline.")
         sys.exit(1)

@@ -2153,123 +2153,39 @@
     ]
   },
   "Shelly": {
-    "created": "2026-09-21T20:54:46.159Z",
-    "count": 201,
+    "created": null,
+    "count": 1,
     "offset": 0,
     "artists": [
       {
-        "id": "94e4af5f-73a3-43da-96bc-49b759bfabdc",
-        "type": "Person",
-        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
-        "score": 100,
-        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
-        "name": "Shelly Manne",
-        "sort-name": "Manne, Shelly",
-        "gender": "male",
-        "country": "US",
+        "id": "79f4cd8c-5ca9-4132-98d0-ee59e8a28ddb",
+        "isnis": [],
         "area": {
-          "id": "489ce91b-6658-3307-9877-795b68554c98",
-          "type": "Country",
-          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
-          "name": "United States",
-          "sort-name": "United States",
-          "life-span": {
-            "ended": null
-          }
+          "sort-name": "Brooklyn",
+          "type": null,
+          "type-id": null,
+          "disambiguation": "",
+          "name": "Brooklyn",
+          "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c"
         },
-        "begin-area": {
-          "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
-          "type": "City",
-          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
-          "name": "New York",
-          "sort-name": "New York",
-          "life-span": {
-            "ended": null
-          }
-        },
-        "end-area": {
-          "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
-          "type": "City",
-          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
-          "name": "Los Angeles",
-          "sort-name": "Los Angeles",
-          "life-span": {
-            "ended": null
-          }
-        },
-        "disambiguation": "US jazz drummer",
-        "ipis": [
-          "00019368960"
-        ],
-        "isnis": [
-          "0000000115844298"
-        ],
+        "gender": null,
+        "sort-name": "Shelly",
+        "gender-id": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "US",
+        "ipis": [],
+        "tags": [],
+        "name": "Shelly",
         "life-span": {
-          "begin": "1920-06-11",
-          "end": "1984-09-26",
-          "ended": true
+          "ended": false,
+          "begin": null,
+          "end": null
         },
-        "aliases": [
-          {
-            "sort-name": "Manne, Sheldon",
-            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
-            "name": "Sheldon Manne",
-            "locale": null,
-            "type": "Legal name",
-            "primary": null,
-            "begin-date": null,
-            "end-date": null
-          },
-          {
-            "sort-name": "Shelley Manne",
-            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
-            "name": "Shelley Manne",
-            "locale": null,
-            "type": "Search hint",
-            "primary": null,
-            "begin-date": null,
-            "end-date": null
-          },
-          {
-            "sort-name": "S. Manne",
-            "name": "S. Manne",
-            "locale": null,
-            "type": null,
-            "primary": null,
-            "begin-date": null,
-            "end-date": null
-          }
-        ],
-        "tags": [
-          {
-            "count": 3,
-            "name": "jazz"
-          },
-          {
-            "count": 1,
-            "name": "swing"
-          },
-          {
-            "count": 1,
-            "name": "hard bop"
-          },
-          {
-            "count": 1,
-            "name": "bebop"
-          },
-          {
-            "count": 1,
-            "name": "cool jazz"
-          },
-          {
-            "count": 1,
-            "name": "avant-garde jazz"
-          },
-          {
-            "count": 1,
-            "name": "2008 universal fire victim"
-          }
-        ]
+        "disambiguation": "emo band from Brooklyn",
+        "end-area": null,
+        "aliases": [],
+        "begin-area": null,
+        "type": "Group"
       }
     ]
   },
@@ -4036,93 +3952,39 @@
     ]
   },
   "Evan": {
-    "created": "2026-09-21T20:55:20.113Z",
-    "count": 3502,
+    "created": null,
+    "count": 1,
     "offset": 0,
     "artists": [
       {
-        "id": "751adfe4-6e40-4ab4-866c-ed14f5087d76",
-        "type": "Person",
-        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
-        "score": 100,
-        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
-        "name": "Evan Call",
-        "sort-name": "Call, Evan",
-        "gender": "male",
-        "country": "JP",
+        "begin-area": null,
+        "id": "fcc72364-27ff-4c1b-aea3-bc41449003b6",
+        "gender-id": null,
+        "gender": null,
+        "name": "Evan",
         "area": {
-          "id": "2db42837-c832-3c27-b4a3-08198f75693c",
-          "type": "Country",
-          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
-          "name": "Japan",
-          "sort-name": "Japan",
-          "life-span": {
-            "ended": null
-          }
+          "type-id": null,
+          "id": "dd229325-1a43-47fa-939c-fb3e471e6e89",
+          "type": null,
+          "name": "Kota Kinabalu",
+          "sort-name": "Kota Kinabalu",
+          "disambiguation": ""
         },
-        "begin-area": {
-          "id": "4fe5dbdb-9c98-4250-89f8-bf5842ecbf6a",
-          "type": "City",
-          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
-          "name": "Lincoln",
-          "sort-name": "Lincoln",
-          "life-span": {
-            "ended": null
-          }
-        },
-        "disambiguation": "American composer and arranger based in Japan",
-        "ipis": [
-          "00850792614"
-        ],
-        "isnis": [
-          "0000000465987475"
-        ],
+        "disambiguation": "EDM, Hip-Hop, Lofi, Trap producer based in Malaysia",
+        "sort-name": "Evan",
         "life-span": {
-          "begin": "1988-06-29",
-          "ended": null
+          "ended": false,
+          "end": null,
+          "begin": null
         },
-        "aliases": [
-          {
-            "sort-name": "Call, Evan",
-            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
-            "name": "Evan Call",
-            "locale": "en",
-            "type": "Artist name",
-            "primary": true,
-            "begin-date": null,
-            "end-date": null
-          },
-          {
-            "sort-name": "えばん・こーる",
-            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
-            "name": "エバン・コール",
-            "locale": "ja",
-            "type": "Artist name",
-            "primary": null,
-            "begin-date": null,
-            "end-date": null
-          },
-          {
-            "sort-name": "えゔぁん・こーる",
-            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
-            "name": "エヴァン・コール",
-            "locale": "ja",
-            "type": "Artist name",
-            "primary": null,
-            "begin-date": null,
-            "end-date": null
-          }
-        ],
-        "tags": [
-          {
-            "count": 1,
-            "name": "anime"
-          },
-          {
-            "count": 1,
-            "name": "composer"
-          }
-        ]
+        "isnis": [],
+        "country": "MY",
+        "ipis": [],
+        "type": "Person",
+        "aliases": [],
+        "tags": [],
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "end-area": null
       }
     ]
   },
@@ -11095,57 +10957,105 @@
     ]
   },
   "Tyla": {
-    "created": "2026-09-21T20:57:06.651Z",
-    "count": 85,
+    "created": null,
+    "count": 1,
     "offset": 0,
     "artists": [
       {
-        "id": "2bf761c6-4bcf-4cfc-a388-8fcb2eea8cc8",
-        "type": "Person",
+        "country": "ZA",
         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
-        "score": 100,
-        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
-        "name": "Tyla",
         "sort-name": "Tyla",
-        "gender": "male",
-        "country": "GB",
         "area": {
-          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
-          "type": "Country",
-          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
-          "name": "United Kingdom",
-          "sort-name": "United Kingdom",
-          "life-span": {
-            "ended": null
-          }
+          "sort-name": "South Africa",
+          "type-id": null,
+          "name": "South Africa",
+          "type": null,
+          "iso-3166-1-codes": [
+            "ZA"
+          ],
+          "disambiguation": "",
+          "id": "50cc7852-862e-30ae-aa82-385fe7135b7f"
         },
-        "begin-area": {
-          "id": "0caff87a-4e9a-45a5-b35b-81d6e16c921d",
-          "type": "City",
-          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
-          "name": "Wolverhampton",
-          "sort-name": "Wolverhampton",
-          "life-span": {
-            "ended": null
-          }
-        },
-        "disambiguation": "English rock musician Timothy Taylor",
-        "ipis": [
-          "00121754499",
-          "00121759190"
-        ],
+        "gender": "Female",
+        "end-area": null,
         "isnis": [
-          "0000000372879176"
+          "0000000514366537"
         ],
+        "disambiguation": "South African singer",
         "life-span": {
-          "ended": null
+          "begin": "2002-01-30",
+          "ended": false,
+          "end": null
         },
+        "ipis": [
+          "01138995902"
+        ],
+        "name": "Tyla",
+        "type": "Person",
+        "aliases": [
+          {
+            "begin": null,
+            "ended": false,
+            "end": null,
+            "type": "Legal name",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "primary": null,
+            "sort-name": "Seethal, Tyla Laura",
+            "locale": null,
+            "name": "Tyla Laura Seethal"
+          },
+          {
+            "ended": false,
+            "begin": null,
+            "end": null,
+            "type": "Search hint",
+            "primary": null,
+            "sort-name": "타일라",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "타일라",
+            "locale": null
+          }
+        ],
         "tags": [
           {
             "count": 1,
-            "name": "spike"
+            "name": "2020s"
+          },
+          {
+            "name": "afrobeats",
+            "count": 3
+          },
+          {
+            "name": "amapiano",
+            "count": 4
+          },
+          {
+            "name": "contemporary r&b",
+            "count": 2
+          },
+          {
+            "name": "gen z",
+            "count": 1
+          },
+          {
+            "count": 4,
+            "name": "pop"
+          },
+          {
+            "name": "r&b",
+            "count": 2
           }
-        ]
+        ],
+        "id": "45425c84-9092-4e2c-b732-e1d0280b580a",
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "begin-area": {
+          "id": "291777c2-c48d-4002-9a0d-c7f87fea5c2b",
+          "type": null,
+          "disambiguation": "",
+          "sort-name": "Johannesburg",
+          "type-id": null,
+          "name": "Johannesburg"
+        }
       }
     ]
   },
@@ -18624,32 +18534,107 @@
     ]
   },
   "Jin": {
-    "created": "2026-10-01T20:01:37.477Z",
-    "count": 3023,
+    "created": null,
+    "count": 1,
     "offset": 0,
     "artists": [
       {
-        "id": "43b4e944-efe6-4591-b57a-bdecc4900731",
-        "type": "Group",
-        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
-        "score": 100,
-        "name": "Jin Jin",
-        "sort-name": "Jin Jin",
-        "country": "DE",
         "area": {
-          "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
-          "type": "Country",
-          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
-          "name": "Germany",
-          "sort-name": "Germany",
-          "life-span": {
-            "ended": null
-          }
+          "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "KR"
+          ],
+          "name": "South Korea",
+          "type-id": null,
+          "sort-name": "South Korea",
+          "type": null
         },
-        "disambiguation": "Riddim",
+        "gender": "Male",
+        "end-area": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "KR",
+        "sort-name": "Jin",
+        "disambiguation": "BTS",
         "life-span": {
-          "ended": null
-        }
+          "end": null,
+          "begin": "1992-12-04",
+          "ended": false
+        },
+        "ipis": [
+          "00717579017"
+        ],
+        "isnis": [
+          "0000000465509537"
+        ],
+        "type": "Person",
+        "aliases": [
+          {
+            "type": "Artist name",
+            "name": "JIN",
+            "locale": "en",
+            "primary": true,
+            "sort-name": "JIN",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "end": null,
+            "ended": false,
+            "begin": null
+          },
+          {
+            "ended": false,
+            "begin": null,
+            "end": null,
+            "type": "Legal name",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "primary": false,
+            "sort-name": "Kim, Seok-jin",
+            "locale": "en",
+            "name": "Kim Seok-jin"
+          },
+          {
+            "ended": false,
+            "begin": null,
+            "end": null,
+            "sort-name": "김석진",
+            "primary": false,
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "김석진",
+            "locale": "ko",
+            "type": "Legal name"
+          },
+          {
+            "name": "진",
+            "locale": "ko",
+            "sort-name": "진",
+            "primary": true,
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "type": "Artist name",
+            "end": null,
+            "begin": null,
+            "ended": false
+          }
+        ],
+        "name": "Jin",
+        "begin-area": {
+          "name": "Gwacheon",
+          "type-id": null,
+          "sort-name": "Gwacheon",
+          "type": null,
+          "disambiguation": "",
+          "id": "f80ade6e-e4e7-40e7-9502-3de5e69faede"
+        },
+        "id": "09720eec-3871-49d5-932d-eb7542768cd3",
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "tags": [
+          {
+            "count": 2,
+            "name": "k-pop"
+          },
+          {
+            "count": 1,
+            "name": "pop"
+          }
+        ]
       }
     ]
   },
@@ -20907,130 +20892,54 @@
     ]
   },
   "RM": {
-    "created": "2026-10-01T20:02:18.312Z",
-    "count": 74,
+    "created": null,
+    "count": 1,
     "offset": 0,
     "artists": [
       {
-        "id": "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9",
-        "type": "Person",
-        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
-        "score": 100,
-        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
-        "name": "RM",
-        "sort-name": "RM",
-        "gender": "male",
-        "country": "KR",
-        "area": {
-          "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
-          "type": "Country",
-          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
-          "name": "South Korea",
-          "sort-name": "South Korea",
-          "life-span": {
-            "ended": null
-          }
-        },
-        "begin-area": {
-          "id": "2d96d8b8-0e4d-4aa1-aeda-bab06f1330cc",
-          "type": "City",
-          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
-          "name": "Goyang",
-          "sort-name": "Goyang",
-          "life-span": {
-            "ended": null
-          }
-        },
-        "disambiguation": "South Korean rapper, from BTS",
-        "ipis": [
-          "00361635269",
-          "00376975005",
-          "00683825801"
-        ],
-        "isnis": [
-          "0000000472455717"
-        ],
         "life-span": {
-          "begin": "1994-09-12",
-          "ended": null
+          "end": null,
+          "begin": null,
+          "ended": false
         },
-        "aliases": [
-          {
-            "sort-name": "Kim, Nam-joon",
-            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
-            "name": "Nam-joon Kim",
-            "locale": null,
-            "type": "Legal name",
-            "primary": null,
-            "begin-date": null,
-            "end-date": null
-          },
-          {
-            "sort-name": "Rap Monster",
-            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
-            "name": "Rap Monster",
-            "locale": null,
-            "type": "Artist name",
-            "primary": null,
-            "begin-date": "2012",
-            "end-date": "2017-11-13"
-          },
-          {
-            "sort-name": "Kim, Nam Jun",
-            "name": "Kim Nam Jun",
-            "locale": "en",
-            "type": null,
-            "primary": null,
-            "begin-date": null,
-            "end-date": null
-          },
-          {
-            "sort-name": "랩몬스터",
-            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
-            "name": "랩몬스터",
-            "locale": null,
-            "type": "Artist name",
-            "primary": null,
-            "begin-date": null,
-            "end-date": "2017"
-          },
-          {
-            "sort-name": "김남준",
-            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
-            "name": "김남준",
-            "locale": "ko",
-            "type": "Legal name",
-            "primary": null,
-            "begin-date": null,
-            "end-date": null
-          }
+        "area": {
+          "name": "South Korea",
+          "type": null,
+          "type-id": null,
+          "sort-name": "South Korea",
+          "iso-3166-1-codes": [
+            "KR"
+          ],
+          "disambiguation": "",
+          "id": "b9f7d640-46e8-313e-b158-ded6d18593b3"
+        },
+        "ipis": [],
+        "id": "3be217fb-2b91-4911-9454-6de69751f53b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "RM",
+        "type": "Person",
+        "isnis": [
+          "0000000465475517"
         ],
-        "tags": [
-          {
-            "count": 1,
-            "name": "pop"
-          },
-          {
-            "count": 1,
-            "name": "rap"
-          },
-          {
-            "count": 1,
-            "name": "hip hop"
-          },
-          {
-            "count": 1,
-            "name": "indie pop"
-          },
-          {
-            "count": 0,
-            "name": "pop rap"
-          },
-          {
-            "count": 1,
-            "name": "r&b"
-          }
-        ]
+        "tags": [],
+        "aliases": [],
+        "end-area": null,
+        "disambiguation": "Korean Sound Engineer",
+        "gender": "Male",
+        "begin-area": {
+          "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "KR"
+          ],
+          "type-id": null,
+          "sort-name": "South Korea",
+          "type": null,
+          "name": "South Korea"
+        },
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "sort-name": "RM",
+        "country": "KR"
       }
     ]
   },
@@ -24281,113 +24190,54 @@
     ]
   },
   "Pablo": {
-    "created": "2026-10-08T12:05:55.752Z",
-    "count": 1737,
+    "created": null,
+    "count": 1,
     "offset": 0,
     "artists": [
       {
-        "id": "e2f9c452-7eb0-4782-bc3e-36f2c456ffe0",
+        "aliases": [],
+        "end-area": null,
         "type": "Person",
-        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
-        "score": 100,
+        "isnis": [],
+        "name": "Pablo",
+        "tags": [],
         "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
-        "name": "Augustus Pablo",
-        "sort-name": "Pablo, Augustus",
-        "gender": "male",
-        "country": "JM",
-        "area": {
-          "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
-          "type": "Country",
-          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
-          "name": "Jamaica",
-          "sort-name": "Jamaica",
-          "life-span": {
-            "ended": null
-          }
-        },
+        "sort-name": "Pablo",
+        "country": "GB",
+        "gender": "Male",
+        "disambiguation": "UK electro/hip-hop producer/turntablist",
         "begin-area": {
-          "id": "e4266d76-372a-4602-93b7-380e4013c90f",
-          "type": "Subdivision",
-          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
-          "name": "Saint Andrew",
-          "sort-name": "Saint Andrew",
-          "life-span": {
-            "ended": null
-          }
+          "name": "United Kingdom",
+          "type": null,
+          "sort-name": "United Kingdom",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "disambiguation": ""
         },
-        "end-area": {
-          "id": "23e0d135-9fe7-48cb-b2c4-93addd3d1e37",
-          "type": "Subdivision",
-          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
-          "name": "Kingston",
-          "sort-name": "Kingston",
-          "life-span": {
-            "ended": null
-          }
+        "area": {
+          "disambiguation": "",
+          "id": "c279f805-01f8-46f5-99cf-51f165a1adad",
+          "iso-3166-2-codes": [
+            "GB-GLG"
+          ],
+          "type-id": null,
+          "sort-name": "Glasgow",
+          "name": "Glasgow",
+          "type": null
         },
         "ipis": [
-          "00046708667"
-        ],
-        "isnis": [
-          "0000000073638612"
+          "00273730758"
         ],
         "life-span": {
-          "begin": "1954-06-21",
-          "end": "1999-05-18",
-          "ended": true
+          "ended": false,
+          "begin": null,
+          "end": null
         },
-        "aliases": [
-          {
-            "sort-name": "Swaby, Horace",
-            "name": "Horace Swaby",
-            "locale": null,
-            "type": null,
-            "primary": null,
-            "begin-date": null,
-            "end-date": null
-          },
-          {
-            "sort-name": "Swaby, Horace Michael",
-            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
-            "name": "Horace Michael Swaby",
-            "locale": null,
-            "type": "Legal name",
-            "primary": null,
-            "begin-date": null,
-            "end-date": null
-          },
-          {
-            "sort-name": "Augustos Pablo",
-            "name": "Augustos Pablo",
-            "locale": null,
-            "type": null,
-            "primary": null,
-            "begin-date": null,
-            "end-date": null
-          }
-        ],
-        "tags": [
-          {
-            "count": 3,
-            "name": "reggae"
-          },
-          {
-            "count": 4,
-            "name": "dub"
-          },
-          {
-            "count": 1,
-            "name": "roots reggae"
-          },
-          {
-            "count": 1,
-            "name": "roots"
-          },
-          {
-            "count": 1,
-            "name": "deejay"
-          }
-        ]
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "28111158-241b-4192-96be-6130af9d2e82"
       }
     ]
   },
@@ -30308,58 +30158,59 @@
     "offset": 0,
     "artists": [
       {
-        "created": "2026-10-19T22:08:46.042Z",
-        "count": 565,
-        "offset": 0,
-        "artists": [
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": "1977-12-29"
+        },
+        "name": "Roberta Campos",
+        "disambiguation": "",
+        "country": "BR",
+        "tags": [],
+        "ipis": [],
+        "end-area": null,
+        "aliases": [
           {
-            "id": "3cfbe5fb-c638-40dc-b8d8-bb5e5c9c4a1e",
-            "type": "Person",
-            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
-            "score": 100,
-            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
-            "name": "Roberta Campos",
-            "sort-name": "Campos, Roberta",
-            "gender": "female",
-            "country": "BR",
-            "area": {
-              "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
-              "type": "Country",
-              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
-              "name": "Brazil",
-              "sort-name": "Brazil",
-              "life-span": {
-                "ended": null
-              }
-            },
-            "begin-area": {
-              "id": "9a660fa5-fba2-4172-86bc-62ce5de96250",
-              "type": "Subdivision",
-              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
-              "name": "Minas Gerais",
-              "sort-name": "Minas Gerais",
-              "life-span": {
-                "ended": null
-              }
-            },
-            "life-span": {
-              "begin": "1977-12-29",
-              "ended": null
-            },
-            "aliases": [
-              {
-                "sort-name": "Campos Martins, Roberta Cristina",
-                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
-                "name": "Roberta Cristina Campos Martins",
-                "locale": "pt",
-                "type": "Legal name",
-                "primary": null,
-                "begin-date": null,
-                "end-date": null
-              }
-            ]
+            "locale": "pt",
+            "name": "Roberta Cristina Campos Martins",
+            "ended": false,
+            "begin": null,
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "end": null,
+            "sort-name": "Campos Martins, Roberta Cristina",
+            "type": "Legal name",
+            "primary": false
           }
-        ]
+        ],
+        "begin-area": {
+          "disambiguation": "",
+          "id": "9a660fa5-fba2-4172-86bc-62ce5de96250",
+          "name": "Minas Gerais",
+          "type": null,
+          "sort-name": "Minas Gerais",
+          "iso-3166-2-codes": [
+            "BR-MG"
+          ],
+          "type-id": null
+        },
+        "type": "Person",
+        "isnis": [],
+        "id": "3cfbe5fb-c638-40dc-b8d8-bb5e5c9c4a1e",
+        "area": {
+          "name": "Brazil",
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "disambiguation": "",
+          "type-id": null,
+          "sort-name": "Brazil",
+          "type": null,
+          "iso-3166-1-codes": [
+            "BR"
+          ]
+        },
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "gender": "Female",
+        "sort-name": "Campos, Roberta"
       }
     ]
   }
